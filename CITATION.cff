@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "Jeśli korzystasz z tego zbioru, zacytuj go."
+type: dataset
+title: "Obligacje oszczędnościowe Skarbu Państwa: emisje i oprocentowanie"
+version: "2026-10-07"
+date-released: "2026-10-07"
+license: CC-BY-4.0
+doi: "10.5281/zenodo.23208023"
+url: "https://obrotomierz.pl/dane/obligacje/"
+authors:
+  - family-names: "Błażewski"
+    given-names: "Rafał"
+    orcid: "https://orcid.org/0009-0003-7680-1154"
+    affiliation: "obrotomierz.pl"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23208024"
+    description: "Wersja 2026-10-07"
+keywords:
+  - obligacje skarbowe
+  - obligacje oszczędnościowe
+  - Polish treasury savings bonds
+  - open data
