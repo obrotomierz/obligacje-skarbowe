@@ -2,18 +2,18 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23208023.svg)](https://doi.org/10.5281/zenodo.23208023)
 
-Wersja 2026-10-07 · licencja CC BY 4.0 · DOI wszystkich wersji [10.5281/zenodo.23208023](https://doi.org/10.5281/zenodo.23208023), tej wersji [10.5281/zenodo.23208024](https://doi.org/10.5281/zenodo.23208024)
+Wersja 2026-10-26 · licencja CC BY 4.0 · DOI wszystkich wersji [10.5281/zenodo.23208023](https://doi.org/10.5281/zenodo.23208023), tej wersji [10.5281/zenodo.23676266](https://doi.org/10.5281/zenodo.23676266)
 
 Strona zbioru: https://obrotomierz.pl/dane/obligacje/
 
-Emisje 10 rodzin obligacji oszczędnościowych Skarbu Państwa sprzedawanych co miesiąc, od 1999-06-01 do 2026-10-01:
-1 497 emisji, oprocentowanie w 7 226 okresach odsetkowych, marże, opłaty za wcześniejszy wykup,
+Emisje 10 rodzin obligacji oszczędnościowych Skarbu Państwa sprzedawanych co miesiąc, od 1999-06-01 do 2026-11-01:
+1 505 emisji, oprocentowanie w 7 295 okresach odsetkowych, marże, opłaty za wcześniejszy wykup,
 sprzedaż i numery list emisyjnych.
 
 ## Pliki
 
 - `emisje.csv`: jedna emisja w wierszu, 19 kolumn (słownik niżej).
-- `oprocentowanie.csv`: oprocentowanie każdej emisji w każdym okresie odsetkowym, który zaczął się do 2026-08-31.
+- `oprocentowanie.csv`: oprocentowanie każdej emisji w każdym okresie odsetkowym, który zaczął się do 2026-09-30.
   Kolumny: `seria`, `okres` (numer okresu), `jednostka_okresu` (miesiąc, rok, półrocze albo cały okres), `oprocentowanie_pct`.
 
 Kodowanie UTF-8 ze znacznikiem BOM, przecinek jako separator kolumn, kropka w liczbach. W Excelu kolumnę
@@ -51,30 +51,30 @@ Kopie z datą w nazwie leżą też na https://obrotomierz.pl/dane/obligacje/ i s
 ## Źródła i metoda
 
 1. Ministerstwo Finansów, „Podstawowe informacje na temat obligacji detalicznych”, dane.gov.pl, zbiór 805
-   (licencja CC BY 4.0), stan na 2026-08-31: serie, ISIN, daty, sprzedaż, oprocentowanie w okresach, marża.
+   (licencja CC BY 4.0), stan na 2026-09-30: serie, ISIN, daty, sprzedaż, oprocentowanie w okresach, marża.
 2. Listy emisyjne ministra (dokumenty urzędowe ustalające warunki każdej emisji), odczytane przez nas: opłata za
    wcześniejszy wykup, podstawa oprocentowania, kapitalizacja, marża pierwszego okresu w starszych emisjach,
    numer listu. Emisje nowsze niż dane MF dopisane wprost z list.
 
-Kontrola: stopa pierwszego okresu porównana między źródłami w 1 354 emisjach, marża
-w 881; rozbieżności: 0. Każda z 1 256 opłat
-sprawdzona drugim, niezależnym odczytem tekstu listu (zgodnych: 1 256). Kod serii i numer
+Kontrola: stopa pierwszego okresu porównana między źródłami w 1 370 emisjach, marża
+w 890; rozbieżności: 0. Każda z 1 296 opłat
+sprawdzona drugim, niezależnym odczytem tekstu listu (zgodnych: 1 296). Kod serii i numer
 listu pochodzą z nagłówka listu.
 
 Poza zbiorem: jednorazowe emisje promocyjne KOS (4) i POS (3) oraz detaliczne
-obligacje nieoszczędnościowe (TZ, SP, IR, RS). 132 emisji ma tylko dane MF, bez odczytu listu.
+obligacje nieoszczędnościowe (TZ, SP, IR, RS). 99 emisji ma tylko dane MF, bez odczytu listu.
 Brak stawek przyszłych okresów (zależą od inflacji i stóp). Zbiór opisuje warunki emisji; nie jest poradą inwestycyjną.
 
 ## Jak cytować
 
-Błażewski, R. (2026). Obligacje oszczędnościowe Skarbu Państwa: emisje i oprocentowanie (wersja 2026-10-07) [Zbiór danych]. obrotomierz.pl. Zenodo. https://doi.org/10.5281/zenodo.23208024
+Błażewski, R. (2026). Obligacje oszczędnościowe Skarbu Państwa: emisje i oprocentowanie (wersja 2026-10-26) [Zbiór danych]. obrotomierz.pl. Zenodo. https://doi.org/10.5281/zenodo.23676266
 Na podstawie danych Ministerstwa Finansów (dane.gov.pl, CC BY 4.0) i list emisyjnych.
 
 ## English summary
 
-Complete dataset of Polish retail treasury savings bonds (obligacje oszczędnościowe Skarbu Państwa) issued monthly
-since 1999: 1 497 issues across 10 bond families, first-period rates and margins, interest rate
-for every interest period (7 226 rows), early redemption fees read from the official issue letters (not
+Dataset of Polish retail treasury savings bonds (obligacje oszczędnościowe Skarbu Państwa) issued monthly
+since 1999: 1 505 issues across 10 bond families, first-period rates and margins, interest rate
+for every interest period (7 295 rows), early redemption fees read from the official issue letters (not
 present in the Ministry of Finance data), sales and issue letter numbers. Built from the Ministry of Finance open data
 (dane.gov.pl, CC BY 4.0) cross-checked against the issue letters (0 discrepancies). Updated monthly.
 Field names and documentation are in Polish. License: CC BY 4.0.

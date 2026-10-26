@@ -90,10 +90,10 @@ COI0111,COI,PL0000104634,2007-01-01,2007-01-31,48,roczny,inflacja,false,4.5,2.5,
 COI0211,COI,PL0000104683,2007-02-01,2007-02-28,48,roczny,inflacja,false,4.5,2,3.1,1,kwota z listu,,5.6648,,5/2007,MF + list
 COI0311,COI,PL0000104733,2007-03-01,2007-03-31,48,roczny,inflacja,false,4.5,2,2.8,1,kwota z listu,,7.239,,10/2007,MF + list
 COI0411,COI,PL0000104766,2007-04-01,2007-04-30,48,roczny,inflacja,false,4.5,2,2.6,1,kwota z listu,,3.4091,,13/2007,MF + list
-COI0511,COI,PL0000104808,2007-05-01,2007-05-31,48,roczny,inflacja,false,4.5,2.25,2,1,kwota z listu,,7.2455,,,MF + list
+COI0511,COI,PL0000104808,2007-05-01,2007-05-31,48,roczny,inflacja,false,4.5,2.25,2,1,kwota z listu,,7.2455,,17/2007,MF + list
 COI0611,COI,PL0000104832,2007-06-01,2007-06-30,48,roczny,inflacja,false,4.5,2.25,2.2,1,kwota z listu,,4.882,,22/2007,MF + list
-COI0711,COI,PL0000104873,2007-07-01,2007-07-31,48,roczny,inflacja,false,5,2.5,2.7,1,kwota z listu,,9.1682,,,MF + list
-COI0811,COI,PL0000104907,2007-08-01,2007-08-31,48,roczny,inflacja,false,5,2.5,2.4,1,kwota z listu,99.9,17.7621,4.4195,,MF + list
+COI0711,COI,PL0000104873,2007-07-01,2007-07-31,48,roczny,inflacja,false,5,2.5,2.7,1,kwota z listu,,9.1682,,26/2007,MF + list
+COI0811,COI,PL0000104907,2007-08-01,2007-08-31,48,roczny,inflacja,false,5,2.5,2.4,1,kwota z listu,99.9,17.7621,4.4195,30/2007,MF + list
 COI0911,COI,PL0000104949,2007-09-01,2007-09-30,48,roczny,inflacja,false,5.5,2.5,3.2,1,kwota z listu,99.9,13.4634,1.3023,33/2007,MF + list
 COI1011,COI,PL0000104972,2007-10-01,2007-10-31,48,roczny,inflacja,false,5.5,2.5,4,1,kwota z listu,99.9,10.8724,0.796,36/2007,MF + list
 COI1111,COI,PL0000105011,2007-11-01,2007-11-30,48,roczny,inflacja,false,5.5,2.5,3.2,1,kwota z listu,99.9,16.7697,1.1057,40/2007,MF + list
@@ -101,7 +101,7 @@ COI1211,COI,PL0000105052,2007-12-01,2007-12-31,48,roczny,inflacja,false,6,2.5,3,
 COI0112,COI,PL0000105094,2008-01-01,2008-01-31,48,roczny,inflacja,false,6.25,2.5,2.65,1,kwota z listu,99.9,97.9732,1.1132,49/2007,MF + list
 COI0212,COI,PL0000105136,2008-02-01,2008-02-28,48,roczny,inflacja,false,6,2.5,2,1,kwota z listu,99.9,35.2545,2.6304,3/2008,MF + list
 COI0312,COI,PL0000105169,2008-03-01,2008-03-31,48,roczny,inflacja,false,6.25,2.5,1.95,1,kwota z listu,99.9,37.9628,3.1003,6/2008,MF + list
-COI0412,COI,PL0000105193,2008-04-01,2008-04-30,48,roczny,inflacja,false,6.5,2.5,2.3,1,kwota z listu,99.9,68.7941,1.5211,,MF + list
+COI0412,COI,PL0000105193,2008-04-01,2008-04-30,48,roczny,inflacja,false,6.5,2.5,2.3,1,kwota z listu,99.9,68.7941,1.5211,9/2008,MF + list
 COI0512,COI,PL0000105235,2008-05-01,2008-05-31,48,roczny,inflacja,false,6.5,2.5,2.4,1,kwota z listu,99.9,32.1679,3.4273,14/2008,MF + list
 COI0612,COI,PL0000105268,2008-06-01,2008-06-30,48,roczny,inflacja,false,6.75,2.5,2.75,1,kwota z listu,99.9,37.9636,5.5037,17/2008,MF + list
 COI0712,COI,PL0000105292,2008-07-01,2008-07-31,48,roczny,inflacja,false,7,2.5,2.6,1,kwota z listu,99.9,88.4118,10.9405,22/2008,MF + list
@@ -117,16 +117,16 @@ COI0413,COI,PL0000105649,2009-04-01,2009-04-30,48,roczny,inflacja,false,6.5,2.5,
 COI0513,COI,PL0000105680,2009-05-01,2009-05-31,48,roczny,inflacja,false,6.5,2.5,2.9,1,kwota z listu,99.9,51.6661,3.8138,14/2009,MF + list
 COI0613,COI,PL0000105714,2009-06-01,2009-06-30,48,roczny,inflacja,false,6.5,2.5,2.5,1,kwota z listu,99.9,61.0878,5.2005,18/2009,MF + list
 COI0713,COI,PL0000105755,2009-07-01,2009-07-31,48,roczny,inflacja,false,6,2.5,2.4,1,kwota z listu,99.9,38.9586,0.9928,22/2009,MF + list
-COI0813,COI,PL0000105797,2009-08-01,2009-08-31,48,roczny,inflacja,false,5.75,2.5,2.25,1,kwota z listu,99.9,25.937,2.2387,,MF + list
+COI0813,COI,PL0000105797,2009-08-01,2009-08-31,48,roczny,inflacja,false,5.75,2.5,2.25,1,kwota z listu,99.9,25.937,2.2387,28/2009,MF + list
 COI0913,COI,PL0000105821,2009-09-01,2009-09-30,48,roczny,inflacja,false,5.75,2.5,2.15,1,kwota z listu,99.9,42.4012,1.625,31/2009,MF + list
 COI1013,COI,PL0000105854,2009-10-01,2009-10-31,48,roczny,inflacja,false,5.75,2.5,2.05,1,kwota z listu,99.9,34.1881,1.3264,35/2009,MF + list
-COI1113,COI,PL0000105888,2009-11-01,2009-11-30,48,roczny,inflacja,false,5.75,2.5,2.35,1,kwota z listu,99.9,32.9425,2.5114,,MF + list
-COI1213,COI,PL0000105938,2009-12-01,2009-12-31,48,roczny,inflacja,false,5.75,2.5,2.65,1,kwota z listu,99.9,46.4541,4.2367,,MF + list
-COI0114,COI,PL0000105979,2010-01-01,2010-01-31,48,roczny,inflacja,false,5.75,2.5,2.45,1,kwota z listu,99.9,32.2123,3.0635,,MF + list
+COI1113,COI,PL0000105888,2009-11-01,2009-11-30,48,roczny,inflacja,false,5.75,2.5,2.35,1,kwota z listu,99.9,32.9425,2.5114,42/2009,MF + list
+COI1213,COI,PL0000105938,2009-12-01,2009-12-31,48,roczny,inflacja,false,5.75,2.5,2.65,1,kwota z listu,99.9,46.4541,4.2367,47/2009,MF + list
+COI0114,COI,PL0000105979,2010-01-01,2010-01-31,48,roczny,inflacja,false,5.75,2.5,2.45,1,kwota z listu,99.9,32.2123,3.0635,51/2009,MF + list
 COI0214,COI,PL0000106019,2010-02-01,2010-02-28,48,roczny,inflacja,false,5.75,2.5,2.25,1,kwota z listu,99.9,43.7235,5.124,3/2010,MF + list
 COI0314,COI,PL0000106043,2010-03-01,2010-03-31,48,roczny,inflacja,false,5.75,2.5,2.15,1,kwota z listu,99.9,40.4175,2.2289,6/2010,MF + list
-COI0414,COI,PL0000106084,2010-04-01,2010-04-30,48,roczny,inflacja,false,4.75,2.5,1.85,1,kwota z listu,99.9,16.3639,1.3028,,MF + list
-COI0514,COI,PL0000106142,2010-05-01,2010-05-31,48,roczny,inflacja,false,4.5,2.5,1.9,1,kwota z listu,99.9,15.8636,2.5883,,MF + list
+COI0414,COI,PL0000106084,2010-04-01,2010-04-30,48,roczny,inflacja,false,4.75,2.5,1.85,1,kwota z listu,99.9,16.3639,1.3028,14/2010,MF + list
+COI0514,COI,PL0000106142,2010-05-01,2010-05-31,48,roczny,inflacja,false,4.5,2.5,1.9,1,kwota z listu,99.9,15.8636,2.5883,18/2010,MF + list
 COI0614,COI,PL0000106175,2010-06-01,2010-05-30,48,roczny,inflacja,false,4.5,2.5,2.1,1,kwota z listu,99.9,15.4547,2.8083,21/2010,MF + list
 COI0714,COI,PL0000106209,2010-07-01,2010-07-31,48,roczny,inflacja,false,4.5,2.5,2.3,1,kwota z listu,99.9,13.7104,4.0752,24/2010,MF + list
 COI0814,COI,PL0000106241,2010-08-01,2010-08-31,48,roczny,inflacja,false,4.5,2.5,2.2,1,kwota z listu,99.9,24.9359,4.6609,30/2010,MF + list
@@ -135,13 +135,13 @@ COI1014,COI,PL0000106308,2010-10-01,2010-10-31,48,roczny,inflacja,false,4.5,2.5,
 COI1114,COI,PL0000106365,2010-11-01,2010-11-30,48,roczny,inflacja,false,4.5,2.5,2,1,kwota z listu,99.9,29.7294,6.1594,43/2010,MF + list
 COI1214,COI,PL0000106399,2010-12-01,2010-12-31,48,roczny,inflacja,false,4.5,2.5,1.7,1,kwota z listu,99.9,20.5286,2.2229,46/2010,MF + list
 COI0115,COI,PL0000106423,2011-01-01,2011-01-31,48,roczny,inflacja,false,4.5,2.5,1.8,1,kwota z listu,99.9,10.8068,2.0013,49/2010,MF + list
-COI0215,COI,PL0000106464,2011-02-01,2011-02-28,48,roczny,inflacja,false,5,2.5,1.9,1,kwota z listu,99.9,35.2236,2.1545,,MF + list
+COI0215,COI,PL0000106464,2011-02-01,2011-02-28,48,roczny,inflacja,false,5,2.5,1.9,1,kwota z listu,99.9,35.2236,2.1545,4/2011,MF + list
 COI0315,COI,PL0000106506,2011-03-01,2011-03-31,48,roczny,inflacja,false,5,2.5,1.2,1,kwota z listu,99.9,30.4608,3.0736,9/2011,MF + list
 COI0415,COI,PL0000106530,2011-04-01,2011-04-30,48,roczny,inflacja,false,5,2.5,1.4,1,kwota z listu,99.9,26.4611,1.1269,13/2011,MF + list
 COI0515,COI,PL0000106589,2011-05-01,2011-05-31,48,roczny,inflacja,false,5,2.5,0.7,1,kwota z listu,99.9,43.4179,1.927,18/2011,MF + list
-COI0615,COI,PL0000106613,2011-06-01,2011-06-30,48,roczny,inflacja,false,5,2.5,0.5,1,kwota z listu,99.9,25.8544,2.7073,,MF + list
+COI0615,COI,PL0000106613,2011-06-01,2011-06-30,48,roczny,inflacja,false,5,2.5,0.5,1,kwota z listu,99.9,25.8544,2.7073,21/2011,MF + list
 COI0715,COI,PL0000106647,2011-07-01,2011-07-31,48,roczny,inflacja,false,5,2.5,0,1,kwota z listu,99.9,31.3171,2.0948,26/2011,MF + list
-COI0815,COI,PL0000106696,2011-08-01,2011-08-31,48,roczny,inflacja,false,5,2.5,0.8,1,kwota z listu,99.9,54.595,6.0484,,MF + list
+COI0815,COI,PL0000106696,2011-08-01,2011-08-31,48,roczny,inflacja,false,5,2.5,0.8,1,kwota z listu,99.9,54.595,6.0484,33/2011,MF + list
 COI0915,COI,PL0000106738,2011-09-01,2011-09-30,48,roczny,inflacja,false,5,2.5,0.9,1,kwota z listu,99.9,52.8397,4.3413,37/2011,MF + list
 COI1015,COI,PL0000106761,2011-10-01,2011-10-31,48,roczny,inflacja,false,5,2.5,0.7,1,kwota z listu,99.9,26.9364,4.4314,40/2011,MF + list
 COI1115,COI,PL0000106811,2011-11-01,2011-11-30,48,roczny,inflacja,false,5,2.5,1.1,1,kwota z listu,99.9,29.047,5.4114,45/2011,MF + list
@@ -149,7 +149,7 @@ COI1215,COI,PL0000106845,2011-12-01,2011-12-31,48,roczny,inflacja,false,5,2.5,0.
 COI0116,COI,PL0000106878,2012-01-01,2012-01-31,48,roczny,inflacja,false,5,2.5,0.2,1,kwota z listu,99.9,46.2013,28.3816,52/2011,MF + list
 COI0216,COI,PL0000106910,2012-02-01,2012-02-28,48,roczny,inflacja,false,5.25,2.5,0.65,1,kwota z listu,99.9,39.7014,10.8853,3/2012,MF + list
 COI0316,COI,PL0000106951,2012-03-01,2012-03-31,48,roczny,inflacja,false,5.5,2.25,1.4,1,kwota z listu,99.9,48.0124,10.3872,7/2012,MF + list
-COI0416,COI,PL0000106985,2012-04-01,2012-04-30,48,roczny,inflacja,false,5.5,2.25,1.2,1,kwota z listu,99.9,52.9979,17.567,,MF + list
+COI0416,COI,PL0000106985,2012-04-01,2012-04-30,48,roczny,inflacja,false,5.5,2.25,1.2,1,kwota z listu,99.9,52.9979,17.567,11/2012,MF + list
 COI0516,COI,PL0000107025,2012-05-01,2012-05-31,48,roczny,inflacja,false,5.5,2.25,1.6,1,kwota z listu,99.9,58.8915,11.7077,16/2012,MF + list
 COI0616,COI,PL0000107074,2012-06-01,2012-06-30,48,roczny,inflacja,false,5.5,2.25,1.5,1,kwota z listu,99.9,39.2338,13.6426,23/2012,MF + list
 COI0716,COI,PL0000107116,2012-07-01,2012-07-31,48,roczny,inflacja,false,5.5,2.25,1.9,1,kwota z listu,99.9,81.0263,30.4254,29/2012,MF + list
@@ -165,21 +165,21 @@ COI0417,COI,PL0000107520,2013-04-01,2013-04-30,48,roczny,inflacja,false,4.5,1.25
 COI0517,COI,PL0000107553,2013-05-01,2013-05-31,48,roczny,inflacja,false,3.5,1.25,2.5,1,kwota z listu,99.9,30.27,17.1804,19/2013,MF + list
 COI0617,COI,PL0000107637,2013-06-01,2013-06-30,48,roczny,inflacja,false,3.5,1.25,2.7,1,kwota z listu,99.9,46.0457,26.4447,27/2013,MF + list
 COI0717,COI,PL0000107678,2013-07-01,2013-07-31,48,roczny,inflacja,false,3.5,1.25,3,1,kwota z listu,99.9,27.0615,8.7474,31/2013,MF + list
-COI0817,COI,PL0000107728,2013-08-01,2013-08-31,48,roczny,inflacja,false,3.5,1.25,3.3,1,kwota z listu,99.9,31.7512,9.146,,MF + list
+COI0817,COI,PL0000107728,2013-08-01,2013-08-31,48,roczny,inflacja,false,3.5,1.25,3.3,1,kwota z listu,99.9,31.7512,9.146,36/2013,MF + list
 COI0917,COI,PL0000107769,2013-09-01,2013-09-30,48,roczny,inflacja,false,3.5,1.25,2.4,1,kwota z listu,99.9,39.2139,12.3513,40/2013,MF + list
 COI1017,COI,PL0000107801,2013-10-01,2013-10-31,48,roczny,inflacja,false,3.5,1.25,2.4,1,kwota z listu,99.9,32.3891,8.3461,44/2013,MF + list
 COI1117,COI,PL0000107843,2013-11-01,2013-11-30,48,roczny,inflacja,false,3.5,1.25,2.5,1,kwota z listu,99.9,35.5812,14.6186,50/2013,MF + list
 COI1217,COI,PL0000107892,2013-12-01,2013-12-31,48,roczny,inflacja,false,3.5,1.25,2.7,1,kwota z listu,99.9,34.758,15.6395,56/2013,MF + list
 COI0118,COI,PL0000107942,2014-01-01,2014-01-31,48,roczny,inflacja,false,3.5,1.25,2.9,1,kwota z listu,99.9,32.9747,12.0439,61/2013,MF + list
-COI0218,COI,PL0000107983,2014-02-01,2014-02-28,48,roczny,inflacja,false,3.5,1.25,2.8,1,kwota z listu,99.9,28.6816,8.9254,,MF + list
+COI0218,COI,PL0000107983,2014-02-01,2014-02-28,48,roczny,inflacja,false,3.5,1.25,2.8,1,kwota z listu,99.9,28.6816,8.9254,6/2014,MF + list
 COI0318,COI,PL0000107931,2014-03-01,2014-03-31,48,roczny,inflacja,false,3.5,1.25,2.8,1,kwota z listu,99.9,28.7244,14.0933,11/2014,MF + list
-COI0418,COI,PL0000107972,2014-04-01,2014-04-30,48,roczny,inflacja,false,3.5,1.25,2.8,1,kwota z listu,99.9,20.2569,7.1368,,MF + list
+COI0418,COI,PL0000107972,2014-04-01,2014-04-30,48,roczny,inflacja,false,3.5,1.25,2.8,1,kwota z listu,99.9,20.2569,7.1368,15/2014,MF + list
 COI0518,COI,PL0000108114,2014-05-01,2014-05-31,48,roczny,inflacja,false,3.5,1.25,2.8,1,kwota z listu,99.9,31.7124,5.0036,19/2014,MF + list
 COI0618,COI,PL0000108163,2014-06-01,2014-06-30,48,roczny,inflacja,false,3.5,1.25,3.2,1,kwota z listu,99.9,20.0375,7.2874,24/2014,MF + list
 COI0718,COI,PL0000108213,2014-07-01,2014-07-31,48,roczny,inflacja,false,3.5,1.25,3.3,1,kwota z listu,99.9,17.8775,6.2378,29/2014,MF + list
 COI0818,COI,PL0000108254,2014-08-01,2014-08-31,48,roczny,inflacja,false,3.5,1.25,3.2,1,kwota z listu,99.9,35.5689,11.2896,33/2014,MF + list
 COI0918,COI,PL0000108296,2014-09-01,2014-09-30,48,roczny,inflacja,false,3.1,1.25,3.1,1,kwota z listu,99.6,25.7273,8.583,37/2014,MF + list
-COI1018,COI,PL0000108338,2014-10-01,2014-10-31,48,roczny,inflacja,false,2.8,1.25,2.8,1,kwota z listu,99.9,12.49,5.3901,,MF + list
+COI1018,COI,PL0000108338,2014-10-01,2014-10-31,48,roczny,inflacja,false,2.8,1.25,2.8,1,kwota z listu,99.9,12.49,5.3901,42/2014,MF + list
 COI1118,COI,PL0000108379,2014-11-01,2014-11-30,48,roczny,inflacja,false,2.6,1.25,2.6,1,kwota z listu,99.9,20.8669,10.0782,46/2014,MF + list
 COI1218,COI,PL0000108411,2014-12-01,2014-12-31,48,roczny,inflacja,false,2.6,1.25,2.6,1,kwota z listu,99.9,27.6805,18.0466,51/2014,MF + list
 COI0119,COI,PL0000108478,2015-01-01,2015-01-31,48,roczny,inflacja,false,2.6,1.25,2.6,1,kwota z listu,99.9,12.0363,2.6473,56/2014,MF + list
@@ -191,7 +191,7 @@ COI0619,COI,PL0000108700,2015-06-01,2015-06-30,48,roczny,inflacja,false,2.3,1.25
 COI0719,COI,PL0000108742,2015-07-01,2015-07-31,48,roczny,inflacja,false,2.3,1.25,2.3,0.7,kwota z listu,99.9,23.1569,9.9833,28/2015,MF + list
 COI0819,COI,PL0000108783,2015-08-01,2015-08-31,48,roczny,inflacja,false,2.3,1.25,2.3,0.7,kwota z listu,99.9,31.9801,19.2724,32/2015,MF + list
 COI0919,COI,PL0000108833,2015-09-01,2015-09-30,48,roczny,inflacja,false,2.3,1.25,2.3,0.7,kwota z listu,99.9,25.0997,7.3802,37/2015,MF + list
-COI1019,COI,PL0000108882,2015-10-01,2015-10-31,48,roczny,inflacja,false,2.3,1.25,2.3,0.7,kwota z listu,99.9,26.8437,12.7197,,MF + list
+COI1019,COI,PL0000108882,2015-10-01,2015-10-31,48,roczny,inflacja,false,2.3,1.25,2.3,0.7,kwota z listu,99.9,26.8437,12.7197,43/2015,MF + list
 COI1119,COI,PL0000108932,2015-11-01,2015-11-30,48,roczny,inflacja,false,2.3,1.25,,,,99.9,29.1612,15.595,,MF
 COI1219,COI,PL0000108981,2015-12-01,2015-12-31,48,roczny,inflacja,false,2.3,1.25,2.3,0.7,kwota z listu,99.9,24.1219,13.2243,54/2015,MF + list
 COI0120,COI,PL0000109039,2016-01-01,2016-01-31,48,roczny,inflacja,false,2.3,1.25,2.3,0.7,kwota z listu,99.9,35.6662,13.1117,58/2015,MF + list
@@ -203,7 +203,7 @@ COI0620,COI,PL0000109252,2016-06-01,2016-06-30,48,roczny,inflacja,false,2.3,1.25
 COI0720,COI,PL0000109294,2016-07-01,2016-07-31,48,roczny,inflacja,false,2.3,1.25,2.3,0.7,kwota z listu,99.9,37.3448,19.3562,29/2016,MF + list
 COI0820,COI,PL0000109344,2016-08-01,2016-08-31,48,roczny,inflacja,false,2.3,1.25,2.3,0.7,kwota z listu,99.9,47.4611,25.4403,35/2016,MF + list
 COI0920,COI,PL0000109393,2016-09-01,2016-09-30,48,roczny,inflacja,false,2.3,1.25,2.3,0.7,kwota z listu,99.9,44.9997,25.2688,41/2016,MF + list
-COI1020,COI,PL0000109443,2016-10-01,2016-10-31,48,roczny,inflacja,false,2.3,1.25,,,,99.7,118.786,91.05,,MF
+COI1020,COI,PL0000109443,2016-10-01,2016-10-31,48,roczny,inflacja,false,2.3,1.25,,0.7,kwota z listu,99.7,118.786,91.05,45/2016,MF + list
 COI1120,COI,PL0000109518,2016-11-01,2016-11-30,48,roczny,inflacja,false,2.3,1.25,2.3,0.7,kwota z listu,99.9,54.2036,27.142,54/2016,MF + list
 COI1220,COI,PL0000109575,2016-12-01,2016-12-31,48,roczny,inflacja,false,2.4,1.25,2.4,0.7,kwota z listu,99.9,59.8679,31.4168,61/2016,MF + list
 COI0121,COI,PL0000109658,2017-01-01,2017-01-31,48,roczny,inflacja,false,2.4,1.25,2.4,0.7,kwota z listu,99.9,139.1285,13.6496,70/2016,MF + list
@@ -226,7 +226,7 @@ COI0522,COI,PL0000110797,2018-05-01,2018-05-31,48,roczny,inflacja,false,2.4,1.25
 COI0622,COI,PL0000110870,2018-06-01,2018-06-30,48,roczny,inflacja,false,2.4,1.25,,0.7,kwota z listu,99.9,194.2212,48.8756,39/2018,MF + list
 COI0722,COI,PL0000110946,2018-07-01,2018-07-31,48,roczny,inflacja,false,2.4,1.25,,0.7,kwota z listu,99.9,265.692,64.4684,46/2018,MF + list
 COI0822,COI,PL0000111019,2018-08-01,2018-08-31,48,roczny,inflacja,false,2.4,1.25,,0.7,kwota z listu,99.9,240.9606,86.4979,53/2018,MF + list
-COI0922,COI,PL0000111084,2018-09-01,2018-09-30,48,roczny,inflacja,false,2.4,1.25,,0.7,kwota z listu,99.9,261.5565,79.8677,,MF + list
+COI0922,COI,PL0000111084,2018-09-01,2018-09-30,48,roczny,inflacja,false,2.4,1.25,,0.7,kwota z listu,99.9,261.5565,79.8677,60/2018,MF + list
 COI1022,COI,PL0000111159,2018-10-01,2018-10-31,48,roczny,inflacja,false,2.4,1.25,,0.7,kwota z listu,99.6,437.8313,193.1183,67/2018,MF + list
 COI1122,COI,PL0000111233,2018-11-01,2018-11-30,48,roczny,inflacja,false,2.4,1.25,,0.7,kwota z listu,99.9,395.2573,59.8791,75/2018,MF + list
 COI1222,COI,PL0000111316,2018-12-01,2018-12-31,48,roczny,inflacja,false,2.4,1.25,,0.7,kwota z listu,99.9,340.3507,67.2587,83/2018,MF + list
@@ -241,10 +241,10 @@ COI0823,COI,PL0000111969,2019-08-01,2019-08-31,48,roczny,inflacja,false,2.4,1.25
 COI0923,COI,PL0000112041,2019-09-01,2019-09-30,48,roczny,inflacja,false,2.4,1.25,,0.7,kwota z listu,99.9,712.3893,79.7241,65/2019,MF + list
 COI1023,COI,PL0000112124,2019-10-01,2019-10-31,48,roczny,inflacja,false,2.4,1.25,,0.7,kwota z listu,99.9,850.8311,92.0669,74/2019,MF + list
 COI1123,COI,PL0000112207,2019-11-01,2019-11-30,48,roczny,inflacja,false,2.4,1.25,,0.7,kwota z listu,99.9,721.9377,71.8997,81/2019,MF + list
-COI1223,COI,PL0000112272,2019-12-01,2019-12-31,48,roczny,inflacja,false,2.4,1.25,,0.7,kwota z listu,99.9,683.1162,76.5846,,MF + list
+COI1223,COI,PL0000112272,2019-12-01,2019-12-31,48,roczny,inflacja,false,2.4,1.25,,0.7,kwota z listu,99.9,683.1162,76.5846,88/2019,MF + list
 COI0124,COI,PL0000112355,2020-01-01,2020-01-31,48,roczny,inflacja,false,2.4,1.25,,0.7,kwota z listu,99.9,1139.7371,89.032,96/2019,MF + list
 COI0224,COI,PL0000112439,2020-02-01,2020-02-28,48,roczny,inflacja,false,2.4,1.25,,0.7,kwota z listu,99.9,1081.1326,148.2891,6/2020,MF + list
-COI0324,COI,PL0000112504,2020-03-01,2020-03-31,48,roczny,inflacja,false,2.4,1.25,,0.7,kwota z listu,99.9,1185.7972,120.9916,,MF + list
+COI0324,COI,PL0000112504,2020-03-01,2020-03-31,48,roczny,inflacja,false,2.4,1.25,,0.7,kwota z listu,99.9,1185.7972,120.9916,14/2020,MF + list
 COI0424,COI,PL0000112587,2020-04-01,2020-04-30,48,roczny,inflacja,false,2.4,1.25,,0.7,kwota z listu,99.9,2853.4693,88.4008,21/2020,MF + list
 COI0524,COI,PL0000112660,2020-05-01,2020-05-31,48,roczny,inflacja,false,1.3,0.75,,0.7,kwota z listu,99.9,298.5075,62.5936,31/2020,MF + list
 COI0624,COI,PL0000112793,2020-06-01,2020-06-30,48,roczny,inflacja,false,1.3,0.75,,0.7,kwota z listu,99.9,408.0365,62.7704,43/2020,MF + list
@@ -322,8 +322,9 @@ COI0530,COI,PL0000119137,2026-05-01,2026-05-31,48,roczny,inflacja,false,4.75,1.5
 COI0630,COI,PL0000119228,2026-06-01,2026-06-30,48,roczny,inflacja,false,4.75,1.5,,2,kwota z listu,99.9,1492.5982,557.4235,54/2026,MF + list
 COI0730,COI,PL0000119301,2026-07-01,2026-07-31,48,roczny,inflacja,false,4.75,1.5,,2,kwota z listu,99.9,1718.3779,524.1417,65/2026,MF + list
 COI0830,COI,PL0000119384,2026-08-01,2026-08-31,48,roczny,inflacja,false,4.75,1.5,,2,kwota z listu,99.9,1493.5773,418.2733,77/2026,MF + list
-COI0930,COI,PL0000119475,2026-09-01,2026-09-30,48,roczny,inflacja,false,4.75,1.5,,2,kwota z listu,99.9,,,86/2026,MF + list
-COI1030,COI,,2026-10-01,,48,roczny,inflacja,false,4.75,1.5,,2,kwota z listu,,,,98/2026,list
+COI0930,COI,PL0000119475,2026-09-01,2026-09-30,48,roczny,inflacja,false,4.75,1.5,,2,kwota z listu,99.9,1450.2847,339.1161,86/2026,MF + list
+COI1030,COI,PL0000119558,2026-10-01,2026-10-31,48,roczny,inflacja,false,4.75,1.5,,2,kwota z listu,99.9,,,98/2026,MF + list
+COI1130,COI,,2026-11-01,,48,roczny,inflacja,false,4.75,1.5,,2,kwota z listu,,,,107/2026,list
 DOR0624,DOR,PL0000114724,2022-06-01,2022-06-30,24,miesięczny,stopa referencyjna NBP,false,5.5,0.25,,0.7,kwota z listu,99.9,1321.918,42.4641,65/2022,MF + list
 DOR0724,DOR,PL0000114807,2022-07-01,2022-07-31,24,miesięczny,stopa referencyjna NBP,false,6.25,0.25,,0.7,kwota z listu,99.9,834.3851,46.9054,78/2022,MF + list
 DOR0824,DOR,PL0000114880,2022-08-01,2022-08-31,24,miesięczny,stopa referencyjna NBP,false,6.75,0.25,,0.7,kwota z listu,99.9,416.1839,41.7958,86/2022,MF + list
@@ -375,8 +376,9 @@ DOR0528,DOR,PL0000119111,2026-05-01,2026-05-31,24,miesięczny,stopa referencyjna
 DOR0628,DOR,PL0000119202,2026-06-01,2026-06-30,24,miesięczny,stopa referencyjna NBP,false,4.15,0.15,,0.7,kwota z listu,99.9,783.418,425.2283,52/2026,MF + list
 DOR0728,DOR,PL0000119285,2026-07-01,2026-07-31,24,miesięczny,stopa referencyjna NBP,false,4.15,0.15,,0.7,kwota z listu,99.9,787.9376,352.3574,63/2026,MF + list
 DOR0828,DOR,PL0000119368,2026-08-01,2026-08-31,24,miesięczny,stopa referencyjna NBP,false,4.15,0.15,,0.7,kwota z listu,99.9,616.6047,280.9813,75/2026,MF + list
-DOR0928,DOR,PL0000119459,2026-09-01,2026-09-30,24,miesięczny,stopa referencyjna NBP,false,4.15,0.15,,0.7,kwota z listu,99.9,,,84/2026,MF + list
-DOR1028,DOR,,2026-10-01,,24,miesięczny,stopa referencyjna NBP,false,4.15,0.15,,0.7,kwota z listu,,,,96/2026,list
+DOR0928,DOR,PL0000119459,2026-09-01,2026-09-30,24,miesięczny,stopa referencyjna NBP,false,4.15,0.15,,0.7,kwota z listu,99.9,538.8923,171.6957,84/2026,MF + list
+DOR1028,DOR,PL0000119533,2026-10-01,2026-10-31,24,miesięczny,stopa referencyjna NBP,false,4.15,0.15,,0.7,kwota z listu,99.9,,,96/2026,MF + list
+DOR1128,DOR,,2026-11-01,,24,miesięczny,stopa referencyjna NBP,false,4.15,0.15,,0.7,kwota z listu,,,,105/2026,list
 DOS0601,DOS,PL0000101275,1999-06-01,1999-06-30,24,roczny,stałe,true,10,,,,,,200,,,MF
 DOS0701,DOS,PL0000101291,1999-07-01,1999-07-30,24,roczny,stałe,true,10,,,,,,92.913,,,MF
 DOS0801,DOS,PL0000101317,1999-08-02,1999-08-31,24,roczny,stałe,true,10,,,,,,17.1799,,,MF
@@ -475,22 +477,22 @@ DOS0409,DOS,PL0000104758,2007-04-01,2007-04-30,24,roczny,stałe,true,4,,,1,kwota
 DOS0509,DOS,PL0000104790,2007-05-01,2007-05-31,24,roczny,stałe,true,4.2,,,1,kwota z listu,99.9,131.3242,60.745,16/2007,MF + list
 DOS0609,DOS,PL0000104824,2007-06-01,2007-06-30,24,roczny,stałe,true,4.2,,,1,kwota z listu,99.9,97.3333,51.9945,21/2007,MF + list
 DOS0709,DOS,PL0000104865,2007-07-01,2007-07-31,24,roczny,stałe,true,4.5,,,1,kwota z listu,99.9,102.5816,39.2421,25/2007,MF + list
-DOS0809,DOS,PL0000104899,2007-08-01,2007-08-31,24,roczny,stałe,true,4.5,,,1,kwota z listu,99.9,156.7684,70.9168,,MF + list
+DOS0809,DOS,PL0000104899,2007-08-01,2007-08-31,24,roczny,stałe,true,4.5,,,1,kwota z listu,99.9,156.7684,70.9168,29/2007,MF + list
 DOS0909,DOS,PL0000104931,2007-09-01,2007-09-30,24,roczny,stałe,true,4.75,,,1,kwota z listu,99.9,197.6417,86.2817,32/2007,MF + list
 DOS1009,DOS,PL0000104964,2007-10-01,2007-10-31,24,roczny,stałe,true,4.75,,,1,kwota z listu,99.9,142.0988,56.0289,35/2007,MF + list
 DOS1109,DOS,PL0000105003,2007-11-01,2007-11-30,24,roczny,stałe,true,4.75,,,1,kwota z listu,99.9,228.9839,127.3513,39/2007,MF + list
 DOS1209,DOS,PL0000105045,2007-12-01,2007-12-31,24,roczny,stałe,true,5.3,,,1,kwota z listu,99.9,462.292,256.6237,44/2007,MF + list
 DOS0110,DOS,PL0000105086,2008-01-01,2008-01-31,24,roczny,stałe,true,5.5,,,1,kwota z listu,99.9,507.5788,168.9858,48/2007,MF + list
-DOS0210,DOS,PL0000105128,2008-02-01,2008-02-28,24,roczny,stałe,true,5.3,,,1,kwota z listu,99.9,121.5766,79.4475,,MF + list
+DOS0210,DOS,PL0000105128,2008-02-01,2008-02-28,24,roczny,stałe,true,5.3,,,1,kwota z listu,99.9,121.5766,79.4475,2/2008,MF + list
 DOS0310,DOS,PL0000105151,2008-03-01,2008-03-31,24,roczny,stałe,true,5.5,,,1,kwota z listu,99.9,171.872,69.6318,5/2008,MF + list
-DOS0410,DOS,PL0000105185,2008-04-01,2008-04-30,24,roczny,stałe,true,5.7,,,1,kwota z listu,99.9,161.1955,43.4695,,MF + list
+DOS0410,DOS,PL0000105185,2008-04-01,2008-04-30,24,roczny,stałe,true,5.7,,,1,kwota z listu,99.9,161.1955,43.4695,8/2008,MF + list
 DOS0510,DOS,PL0000105227,2008-05-01,2008-05-31,24,roczny,stałe,true,5.7,,,1,kwota z listu,99.9,142.0735,53.1311,13/2008,MF + list
 DOS0610,DOS,PL0000105250,2008-06-01,2008-06-30,24,roczny,stałe,true,6,,,1,kwota z listu,99.9,255.5495,115.6041,16/2008,MF + list
 DOS0710,DOS,PL0000105284,2008-07-01,2008-07-31,24,roczny,stałe,true,6.25,,,1,kwota z listu,99.9,500.0775,165.5145,21/2008,MF + list
 DOS0810,DOS,PL0000105318,2008-08-01,2008-08-31,24,roczny,stałe,true,6.25,,,1,kwota z listu,99.9,497.7981,178.7556,25/2008,MF + list
 DOS0910,DOS,PL0000105367,2008-09-01,2008-09-30,24,roczny,stałe,true,6,,,1,kwota z listu,99.9,272.8955,115.9794,29/2008,MF + list
 DOS1010,DOS,PL0000105409,2008-10-01,2008-10-31,24,roczny,stałe,true,5.8,,,1,kwota z listu,99.9,600.9819,68.7173,34/2008,MF + list
-DOS1110,DOS,PL0000105466,2008-11-01,2008-11-30,24,roczny,stałe,true,6.25,,,1,kwota z listu,99.9,302.8784,119.0534,,MF + list
+DOS1110,DOS,PL0000105466,2008-11-01,2008-11-30,24,roczny,stałe,true,6.25,,,1,kwota z listu,99.9,302.8784,119.0534,39/2008,MF + list
 DOS1210,DOS,PL0000105490,2008-12-01,2008-12-31,24,roczny,stałe,true,6.25,,,1,kwota z listu,99.9,256.6328,83.5987,42/2008,MF + list
 DOS0111,DOS,PL0000105532,2009-01-01,2009-01-31,24,roczny,stałe,true,5.75,,,1,kwota z listu,99.9,239.2549,61.944,46/2008,MF + list
 DOS0211,DOS,PL0000105573,2009-02-01,2009-02-28,24,roczny,stałe,true,5.25,,,1,kwota z listu,99.9,157.2022,60.0907,2/2009,MF + list
@@ -499,63 +501,63 @@ DOS0411,DOS,PL0000105631,2009-04-01,2009-04-30,24,roczny,stałe,true,5.5,,,1,kwo
 DOS0511,DOS,PL0000105672,2009-05-01,2009-05-31,24,roczny,stałe,true,5.5,,,1,kwota z listu,99.9,200.3356,62.1648,13/2009,MF + list
 DOS0611,DOS,PL0000105706,2009-06-01,2009-06-30,24,roczny,stałe,true,5.5,,,1,kwota z listu,99.9,190.993,48.2322,17/2009,MF + list
 DOS0711,DOS,PL0000105748,2009-07-01,2009-07-31,24,roczny,stałe,true,5,,,1,kwota z listu,99.9,112.6535,42.8292,21/2009,MF + list
-DOS0811,DOS,PL0000105789,2009-08-01,2009-08-31,24,roczny,stałe,true,4.75,,,1,kwota z listu,99.9,105.277,61.3766,,MF + list
+DOS0811,DOS,PL0000105789,2009-08-01,2009-08-31,24,roczny,stałe,true,4.75,,,1,kwota z listu,99.9,105.277,61.3766,27/2009,MF + list
 DOS0911,DOS,PL0000105813,2009-09-01,2009-09-30,24,roczny,stałe,true,4.75,,,1,kwota z listu,99.9,160.4545,72.4739,30/2009,MF + list
 DOS1011,DOS,PL0000105847,2009-10-01,2009-10-31,24,roczny,stałe,true,4.75,,,1,kwota z listu,99.9,98.0938,53.8671,34/2009,MF + list
-DOS1111,DOS,PL0000105870,2009-11-01,2009-11-30,24,roczny,stałe,true,4.75,,,1,kwota z listu,99.9,151.2343,101.0214,,MF + list
+DOS1111,DOS,PL0000105870,2009-11-01,2009-11-30,24,roczny,stałe,true,4.75,,,1,kwota z listu,99.9,151.2343,101.0214,41/2009,MF + list
 DOS1211,DOS,PL0000105920,2009-12-01,2009-12-31,24,roczny,stałe,true,4.75,,,,,99.9,273.842,203.6191,,MF
-DOS0112,DOS,PL0000105961,2010-01-01,2010-01-31,24,roczny,stałe,true,4.75,,,1,kwota z listu,99.9,253.4215,188.3211,,MF + list
+DOS0112,DOS,PL0000105961,2010-01-01,2010-01-31,24,roczny,stałe,true,4.75,,,1,kwota z listu,99.9,253.4215,188.3211,50/2009,MF + list
 DOS0212,DOS,PL0000106001,2010-02-01,2010-02-28,24,roczny,stałe,true,4.5,,,1,kwota z listu,99.9,81.2845,55.7394,2/2010,MF + list
 DOS0312,DOS,PL0000106035,2010-03-01,2010-03-31,24,roczny,stałe,true,4.5,,,1,kwota z listu,99.9,90.6681,61.6231,5/2010,MF + list
-DOS0412,DOS,PL0000106076,2010-04-01,2010-04-30,24,roczny,stałe,true,4.25,,,1,kwota z listu,99.9,63.3024,40.6484,,MF + list
-DOS0512,DOS,PL0000106134,2010-05-01,2010-05-31,24,roczny,stałe,true,4,,,1,kwota z listu,99.9,49.8433,34.9174,,MF + list
+DOS0412,DOS,PL0000106076,2010-04-01,2010-04-30,24,roczny,stałe,true,4.25,,,1,kwota z listu,99.9,63.3024,40.6484,13/2010,MF + list
+DOS0512,DOS,PL0000106134,2010-05-01,2010-05-31,24,roczny,stałe,true,4,,,1,kwota z listu,99.9,49.8433,34.9174,17/2010,MF + list
 DOS0612,DOS,PL0000106167,2010-06-01,2010-06-30,24,roczny,stałe,true,4,,,1,kwota z listu,99.9,74.359,53.851,20/2010,MF + list
 DOS0712,DOS,PL0000106191,2010-07-01,2010-07-31,24,roczny,stałe,true,4,,,1,kwota z listu,99.9,129.4393,99.2715,23/2010,MF + list
 DOS0812,DOS,PL0000106233,2010-08-01,2010-08-31,24,roczny,stałe,true,4,,,1,kwota z listu,99.9,136.9178,106.682,29/2010,MF + list
 DOS0912,DOS,PL0000106266,2010-09-01,2010-09-30,24,roczny,stałe,true,4,,,1,kwota z listu,99.9,97.134,71.714,32/2010,MF + list
 DOS1012,DOS,PL0000106290,2010-10-01,2010-10-31,24,roczny,stałe,true,4,,,1,kwota z listu,99.9,141.2591,112.7471,37/2010,MF + list
 DOS1112,DOS,PL0000106357,2010-11-01,2010-11-30,24,roczny,stałe,true,4,,,1,kwota z listu,99.9,110.5965,83.7011,42/2010,MF + list
-DOS1212,DOS,PL0000106381,2010-12-01,2010-12-31,24,roczny,stałe,true,4,,,1,kwota z listu,99.9,95.1659,69.7805,,MF + list
+DOS1212,DOS,PL0000106381,2010-12-01,2010-12-31,24,roczny,stałe,true,4,,,1,kwota z listu,99.9,95.1659,69.7805,45/2010,MF + list
 DOS0113,DOS,PL0000106415,2011-01-01,2011-01-31,24,roczny,stałe,true,4,,,1,kwota z listu,99.9,69.2947,52.4291,48/2010,MF + list
 DOS0213,DOS,PL0000106456,2011-02-01,2011-02-28,24,roczny,stałe,true,4.5,,,1,kwota z listu,99.9,96.2269,53.7446,3/2011,MF + list
 DOS0313,DOS,PL0000106498,2011-03-01,2011-03-31,24,roczny,stałe,true,4.5,,,1,kwota z listu,99.9,145.2814,99.498,8/2011,MF + list
 DOS0413,DOS,PL0000106522,2011-04-01,2011-04-30,24,roczny,stałe,true,4.5,,,1,kwota z listu,99.9,94.2009,64.2021,11/2011,MF + list
 DOS0513,DOS,PL0000106571,2011-05-01,2011-05-31,24,roczny,stałe,true,4.5,,,1,kwota z listu,99.9,96.4732,66.2093,17/2011,MF + list
-DOS0613,DOS,PL0000106605,2011-06-01,2011-06-30,24,roczny,stałe,true,4.5,,,1,kwota z listu,99.9,86.2337,58.3388,,MF + list
+DOS0613,DOS,PL0000106605,2011-06-01,2011-06-30,24,roczny,stałe,true,4.5,,,1,kwota z listu,99.9,86.2337,58.3388,20/2011,MF + list
 DOS0713,DOS,PL0000106639,2011-07-01,2011-07-31,24,roczny,stałe,true,4.5,,,1,kwota z listu,99.9,65.7712,40.6075,25/2011,MF + list
-DOS0813,DOS,PL0000106688,2011-08-01,2011-08-31,24,roczny,stałe,true,4.5,,,1,kwota z listu,99.9,69.6957,45.6719,,MF + list
+DOS0813,DOS,PL0000106688,2011-08-01,2011-08-31,24,roczny,stałe,true,4.5,,,1,kwota z listu,99.9,69.6957,45.6719,32/2011,MF + list
 DOS0913,DOS,PL0000106720,2011-09-01,2011-09-30,24,roczny,stałe,true,4.5,,,1,kwota z listu,99.9,68.7206,47.2874,36/2011,MF + list
 DOS1013,DOS,PL0000106753,2011-10-01,2011-10-31,24,roczny,stałe,true,4.5,,,1,kwota z listu,99.9,59.5608,38.7567,39/2011,MF + list
-DOS1113,DOS,PL0000106803,2011-11-01,2011-11-30,24,roczny,stałe,true,4.5,,,1,kwota z listu,99.9,80.0531,62.281,,MF + list
+DOS1113,DOS,PL0000106803,2011-11-01,2011-11-30,24,roczny,stałe,true,4.5,,,1,kwota z listu,99.9,80.0531,62.281,44/2011,MF + list
 DOS1213,DOS,PL0000106837,2011-12-01,2011-12-31,24,roczny,stałe,true,4.5,,,1,kwota z listu,99.9,136.941,109.6535,48/2011,MF + list
 DOS0114,DOS,PL0000106860,2012-01-01,2012-01-31,24,roczny,stałe,true,4.5,,,1,kwota z listu,99.9,123.1195,101.8179,51/2011,MF + list
 DOS0214,DOS,PL0000106902,2012-02-01,2012-02-28,24,roczny,stałe,true,4.75,,,1,kwota z listu,99.9,69.117,39.4318,2/2012,MF + list
-DOS0314,DOS,PL0000109644,2012-03-01,2012-03-31,24,roczny,stałe,true,4.75,,,1,kwota z listu,99.9,76.8977,47.1622,,MF + list
+DOS0314,DOS,PL0000109644,2012-03-01,2012-03-31,24,roczny,stałe,true,4.75,,,1,kwota z listu,99.9,76.8977,47.1622,6/2012,MF + list
 DOS0414,DOS,PL0000106977,2012-04-01,2012-04-30,24,roczny,stałe,true,4.75,,,1,kwota z listu,99.9,50.0602,31.709,10/2012,MF + list
-DOS0514,DOS,PL0000107017,2012-05-01,2012-05-31,24,roczny,stałe,true,4.75,,,1,kwota z listu,99.9,42.258,26.0673,,MF + list
+DOS0514,DOS,PL0000107017,2012-05-01,2012-05-31,24,roczny,stałe,true,4.75,,,1,kwota z listu,99.9,42.258,26.0673,14/2012,MF + list
 DOS0614,DOS,PL0000107066,2012-06-01,2012-06-30,24,roczny,stałe,true,4.75,,,1,kwota z listu,99.9,44.7166,31.6819,21/2012,MF + list
-DOS0714,DOS,PL0000107108,2012-07-01,2012-07-31,24,roczny,stałe,true,4.75,,,1,kwota z listu,99.9,75.3067,56.429,,MF + list
+DOS0714,DOS,PL0000107108,2012-07-01,2012-07-31,24,roczny,stałe,true,4.75,,,1,kwota z listu,99.9,75.3067,56.429,27/2012,MF + list
 DOS0814,DOS,PL0000107140,2012-08-01,2012-08-01,24,roczny,stałe,true,4.5,,,1,kwota z listu,99.9,76.02,58.6134,31/2012,MF + list
 DOS0914,DOS,PL0000107181,2012-09-01,2012-09-30,24,roczny,stałe,true,4.5,,,1,kwota z listu,99.9,60.1525,42.7503,35/2012,MF + list
-DOS1014,DOS,PL0000107223,2012-10-01,2012-10-31,24,roczny,stałe,true,4.3,,,1,kwota z listu,99.9,60.0453,48.7897,,MF + list
+DOS1014,DOS,PL0000107223,2012-10-01,2012-10-31,24,roczny,stałe,true,4.3,,,1,kwota z listu,99.9,60.0453,48.7897,40/2012,MF + list
 DOS1114,DOS,PL0000107272,2012-11-01,2012-11-30,24,roczny,stałe,true,4,,,1,kwota z listu,99.9,50.2843,39.0976,47/2012,MF + list
 DOS1214,DOS,PL0000107322,2012-12-01,2012-12-01,24,roczny,stałe,true,3.9,,,1,kwota z listu,99.9,36.7695,26.5128,54/2012,MF + list
-DOS0115,DOS,PL0000107363,2013-01-01,2013-01-31,24,roczny,stałe,true,3.5,,,1,kwota z listu,99.9,24.8735,20.6226,,MF + list
+DOS0115,DOS,PL0000107363,2013-01-01,2013-01-31,24,roczny,stałe,true,3.5,,,1,kwota z listu,99.9,24.8735,20.6226,58/2012,MF + list
 DOS0215,DOS,PL0000107413,2013-02-01,2013-02-28,24,roczny,stałe,true,3.5,,,1,kwota z listu,99.9,33.5972,25.4105,3/2013,MF + list
 DOS0315,DOS,PL0000107462,2013-03-01,2013-03-31,24,roczny,stałe,true,3.5,,,1,kwota z listu,99.9,61.2656,44.3203,9/2013,MF + list
 DOS0415,DOS,PL0000107504,2013-04-01,2013-04-30,24,roczny,stałe,true,3.5,,,1,kwota z listu,99.9,60.566,36.4903,13/2013,MF + list
 DOS0515,DOS,PL0000107456,2013-05-01,2013-05-31,24,roczny,stałe,true,3,,,1,kwota z listu,99.9,52.8325,36.6264,17/2013,MF + list
 DOS0615,DOS,PL0000107629,2013-06-01,2013-06-30,24,roczny,stałe,true,3,,,1,kwota z listu,99.9,73.84,36.4265,25/2013,MF + list
-DOS0715,DOS,PL0000107660,2013-07-01,2013-07-31,24,roczny,stałe,true,3,,,1,kwota z listu,99.9,95.8026,34.9133,,MF + list
-DOS0815,DOS,PL0000107710,2013-08-01,2013-08-31,24,roczny,stałe,true,3,,,1,kwota z listu,99.9,110.7876,40.5496,,MF + list
-DOS0915,DOS,PL0000107751,2013-09-01,2013-09-30,24,roczny,stałe,true,3,,,1,kwota z listu,99.9,96.2704,41.8717,,MF + list
+DOS0715,DOS,PL0000107660,2013-07-01,2013-07-31,24,roczny,stałe,true,3,,,1,kwota z listu,99.9,95.8026,34.9133,29/2013,MF + list
+DOS0815,DOS,PL0000107710,2013-08-01,2013-08-31,24,roczny,stałe,true,3,,,1,kwota z listu,99.9,110.7876,40.5496,34/2013,MF + list
+DOS0915,DOS,PL0000107751,2013-09-01,2013-09-30,24,roczny,stałe,true,3,,,1,kwota z listu,99.9,96.2704,41.8717,38/2013,MF + list
 DOS1015,DOS,PL0000107793,2013-10-01,2013-10-31,24,roczny,stałe,true,3,,,1,kwota z listu,99.9,110.0069,36.7534,42/2013,MF + list
 DOS1115,DOS,PL0000107835,2013-11-01,2013-11-30,24,roczny,stałe,true,3.2,,,1,kwota z listu,99.9,163.4871,52.9701,48/2013,MF + list
 DOS1215,DOS,PL0000107884,2013-12-01,2013-12-31,24,roczny,stałe,true,3,,,1,kwota z listu,99.9,189.8375,92.2072,54/2013,MF + list
 DOS0116,DOS,PL0000107934,2014-01-01,2014-01-31,24,roczny,stałe,true,3,,,1,kwota z listu,99.9,171.7155,83.2772,59/2013,MF + list
-DOS0216,DOS,PL0000107975,2014-02-01,2014-02-28,24,roczny,stałe,true,3,,,1,kwota z listu,99.9,102.0991,42.3068,,MF + list
+DOS0216,DOS,PL0000107975,2014-02-01,2014-02-28,24,roczny,stałe,true,3,,,1,kwota z listu,99.9,102.0991,42.3068,4/2014,MF + list
 DOS0316,DOS,PL0000108023,2014-03-01,2014-03-31,24,roczny,stałe,true,3,,,1,kwota z listu,99.9,95.9415,44.4029,9/2014,MF + list
-DOS0416,DOS,PL0000108064,2014-04-01,2014-04-30,24,roczny,stałe,true,3,,,1,kwota z listu,99.9,75.996,30.1721,,MF + list
+DOS0416,DOS,PL0000108064,2014-04-01,2014-04-30,24,roczny,stałe,true,3,,,1,kwota z listu,99.9,75.996,30.1721,13/2014,MF + list
 DOS0516,DOS,PL0000108106,2014-05-01,2014-05-31,24,roczny,stałe,true,3,,,1,kwota z listu,99.9,71.1466,25.4531,17/2014,MF + list
 DOS0616,DOS,PL0000108155,2014-06-01,2014-06-30,24,roczny,stałe,true,3,,,1,kwota z listu,99.9,76.4039,29.0129,22/2014,MF + list
 DOS0716,DOS,PL0000108205,2014-07-01,2014-07-31,24,roczny,stałe,true,3,,,1,kwota z listu,99.9,128.7852,53.3144,27/2014,MF + list
@@ -570,22 +572,22 @@ DOS0317,DOS,PL0000108569,2015-03-01,2015-03-31,24,roczny,stałe,true,2,,,1,kwota
 DOS0417,DOS,PL0000108619,2015-04-01,2015-04-30,24,roczny,stałe,true,2,,,0.7,kwota z listu,99.9,97.6104,41.4083,12/2015,MF + list
 DOS0517,DOS,PL0000108650,2015-05-01,2015-05-31,24,roczny,stałe,true,2,,,0.7,kwota z listu,99.9,125.2891,39.6599,17/2015,MF + list
 DOS0617,DOS,PL0000108692,2015-06-01,2015-06-30,24,roczny,stałe,true,2,,,0.7,kwota z listu,99.9,143.5729,48.7301,22/2015,MF + list
-DOS0717,DOS,PL0000108734,2015-07-01,2015-07-31,24,roczny,stałe,true,2,,,0.7,kwota z listu,99.9,161.1194,58.5143,,MF + list
+DOS0717,DOS,PL0000108734,2015-07-01,2015-07-31,24,roczny,stałe,true,2,,,0.7,kwota z listu,99.9,161.1194,58.5143,26/2015,MF + list
 DOS0817,DOS,PL0000108775,2015-08-01,2015-08-31,24,roczny,stałe,true,2,,,0.7,kwota z listu,99.9,185.295,68.068,30/2015,MF + list
 DOS0917,DOS,PL0000108825,2015-09-01,2015-09-30,24,roczny,stałe,true,2,,,0.7,kwota z listu,99.9,183.2385,58.7946,35/2015,MF + list
-DOS1017,DOS,PL0000108874,2015-10-01,2015-10-31,24,roczny,stałe,true,2,,,0.7,kwota z listu,99.9,170.8447,69.3663,,MF + list
+DOS1017,DOS,PL0000108874,2015-10-01,2015-10-31,24,roczny,stałe,true,2,,,0.7,kwota z listu,99.9,170.8447,69.3663,41/2015,MF + list
 DOS1117,DOS,PL0000108924,2015-11-01,2015-11-30,24,roczny,stałe,true,2.1,,,0.7,kwota z listu,99.9,185.192,82.43,48/2015,MF + list
 DOS1217,DOS,PL0000108973,2015-12-01,2015-12-31,24,roczny,stałe,true,2,,,0.7,kwota z listu,99.9,224.6016,118.4191,52/2015,MF + list
 DOS0118,DOS,PL0000109021,2016-01-01,2016-01-31,24,roczny,stałe,true,2,,,0.7,kwota z listu,99.9,232.602,102.6917,56/2015,MF + list
 DOS0218,DOS,PL0000109070,2016-02-01,2016-02-28,24,roczny,stałe,true,2,,,0.7,kwota z listu,99.6,502.941,327.5996,4/2016,MF + list
-DOS0318,DOS,PL0000109112,2016-03-01,2016-03-31,24,roczny,stałe,true,2,,,0.7,kwota z listu,99.9,302.0872,67.9487,,MF + list
+DOS0318,DOS,PL0000109112,2016-03-01,2016-03-31,24,roczny,stałe,true,2,,,0.7,kwota z listu,99.9,302.0872,67.9487,8/2016,MF + list
 DOS0418,DOS,PL0000109161,2016-04-01,2016-04-30,24,roczny,stałe,true,2,,,0.7,kwota z listu,99.9,260.4018,59.532,13/2016,MF + list
 DOS0518,DOS,PL0000109203,2016-05-01,2016-05-31,24,roczny,stałe,true,2,,,0.7,kwota z listu,99.9,199.9144,48.4952,19/2016,MF + list
 DOS0618,DOS,PL0000109245,2016-06-01,2016-06-30,24,roczny,stałe,true,2,,,0.7,kwota z listu,99.9,164.9168,54.8946,23/2016,MF + list
 DOS0718,DOS,PL0000109286,2016-07-01,2016-07-31,24,roczny,stałe,true,2,,,0.7,kwota z listu,99.9,339.8073,96.8089,27/2016,MF + list
 DOS0818,DOS,PL0000109336,2016-08-01,2016-08-31,24,roczny,stałe,true,2,,,0.7,kwota z listu,99.9,226.5651,78.345,33/2016,MF + list
 DOS0918,DOS,PL0000109385,2016-09-01,2016-09-30,24,roczny,stałe,true,2,,,0.7,kwota z listu,99.9,232.5224,94.1353,39/2016,MF + list
-DOS1018,DOS,PL0000109435,2016-10-01,2016-10-31,24,roczny,stałe,true,2,,,,,99.7,690.6161,490.8122,,MF
+DOS1018,DOS,PL0000109435,2016-10-01,2016-10-31,24,roczny,stałe,true,2,,,0.7,kwota z listu,99.7,690.6161,490.8122,43/2016,MF + list
 DOS1118,DOS,PL0000109500,2016-11-01,2016-11-30,24,roczny,stałe,true,2,,,0.7,kwota z listu,99.9,214.5829,56.1159,52/2016,MF + list
 DOS1218,DOS,PL0000109567,2016-12-01,2016-12-31,24,roczny,stałe,true,2,,,0.7,kwota z listu,99.9,179.1917,86.7066,59/2016,MF + list
 DOS0119,DOS,PL0000109641,2017-01-01,2017-01-31,24,roczny,stałe,true,2.1,,,0.7,kwota z listu,99.9,266.566,35.9612,68/2016,MF + list
@@ -601,7 +603,7 @@ DOS1019,DOS,PL0000110235,2017-10-01,2017-10-31,24,roczny,stałe,true,2.1,,,0.7,k
 DOS1119,DOS,PL0000110318,2017-11-01,2017-11-30,24,roczny,stałe,true,2.1,,,0.7,kwota z listu,99.9,234.9613,106.3388,64/2017,MF + list
 DOS1219,DOS,PL0000110417,2017-12-01,2017-12-31,24,roczny,stałe,true,2.1,,,0.7,kwota z listu,99.9,252.3388,134.3589,73/2017,MF + list
 DOS0120,DOS,PL0000110482,2018-01-01,2018-01-31,24,roczny,stałe,true,2.1,,,0.7,kwota z listu,99.9,296.9686,121.139,81/2017,MF + list
-DOS0220,DOS,PL0000110557,2018-02-01,2018-02-28,24,roczny,stałe,true,2.1,,,,,99.9,406.1487,228.196,,MF
+DOS0220,DOS,PL0000110557,2018-02-01,2018-02-28,24,roczny,stałe,true,2.1,,,0.7,kwota z listu,99.9,406.1487,228.196,2/2018,MF + list
 DOS0320,DOS,PL0000110631,2018-03-01,2018-03-31,24,roczny,stałe,true,2.1,,,0.7,kwota z listu,99.9,300.5748,125.479,10/2018,MF + list
 DOS0420,DOS,PL0000110706,2018-04-01,2018-04-30,24,roczny,stałe,true,2.1,,,0.7,kwota z listu,99.9,238.4682,97.0675,22/2018,MF + list
 DOS0520,DOS,PL0000110771,2018-05-01,2018-05-31,24,roczny,stałe,true,2.1,,,0.7,kwota z listu,99.9,216.0898,77.298,29/2018,MF + list
@@ -609,7 +611,7 @@ DOS0620,DOS,PL0000110854,2018-06-01,2018-06-30,24,roczny,stałe,true,2.1,,,0.7,k
 DOS0720,DOS,PL0000110920,2018-07-01,2018-07-31,24,roczny,stałe,true,2.1,,,0.7,kwota z listu,99.9,343.4217,172.2768,44/2018,MF + list
 DOS0820,DOS,PL0000110995,2018-08-01,2018-08-31,24,roczny,stałe,true,2.1,,,0.7,kwota z listu,99.9,272.6566,101.78,51/2018,MF + list
 DOS0920,DOS,PL0000111068,2018-09-01,2018-09-30,24,roczny,stałe,true,2.1,,,0.7,kwota z listu,99.9,242.2559,99.5497,58/2018,MF + list
-DOS1020,DOS,PL0000111134,2018-10-01,2018-10-31,24,roczny,stałe,true,2.1,,,,,99.8,488.333,318.4656,,MF
+DOS1020,DOS,PL0000111134,2018-10-01,2018-10-31,24,roczny,stałe,true,2.1,,,0.7,kwota z listu,99.8,488.333,318.4656,65/2018,MF + list
 DOS1120,DOS,PL0000111217,2018-11-01,2018-11-30,24,roczny,stałe,true,2.1,,,0.7,kwota z listu,99.9,288.1244,103.7736,73/2018,MF + list
 DOS1220,DOS,PL0000111290,2018-12-01,2018-12-31,24,roczny,stałe,true,2.1,,,0.7,kwota z listu,99.9,263.2746,94.7344,81/2018,MF + list
 DOS0121,DOS,PL0000111365,2019-01-01,2019-01-31,24,roczny,stałe,true,2.1,,,0.7,kwota z listu,99.9,308.6918,122.9928,88/2018,MF + list
@@ -623,16 +625,16 @@ DOS0821,DOS,PL0000111944,2019-08-01,2019-08-31,24,roczny,stałe,true,2.1,,,0.7,k
 DOS0921,DOS,PL0000112025,2019-09-01,2019-09-30,24,roczny,stałe,true,2.1,,,0.7,kwota z listu,99.9,276.1602,102.5163,63/2019,MF + list
 DOS1021,DOS,PL0000112108,2019-10-01,2019-10-31,24,roczny,stałe,true,2.1,,,0.7,kwota z listu,99.9,381.9258,113.4703,72/2019,MF + list
 DOS1121,DOS,PL0000112181,2019-11-01,2019-11-30,24,roczny,stałe,true,2.1,,,0.7,kwota z listu,99.9,297.5694,113.6547,79/2019,MF + list
-DOS1221,DOS,PL0000112256,2019-12-01,2019-12-31,24,roczny,stałe,true,2.1,,,,,99.9,319.2963,130.3383,,MF
+DOS1221,DOS,PL0000112256,2019-12-01,2019-12-31,24,roczny,stałe,true,2.1,,,0.7,kwota z listu,99.9,319.2963,130.3383,86/2019,MF + list
 DOS0122,DOS,PL0000112330,2020-01-01,2020-01-31,24,roczny,stałe,true,2.1,,,0.7,kwota z listu,99.9,345.4373,132.6111,94/2019,MF + list
 DOS0222,DOS,PL0000112413,2020-02-01,2020-02-28,24,roczny,stałe,true,2.1,,,0.7,kwota z listu,99.9,373.8672,174.8497,4/2020,MF + list
-DOS0322,DOS,PL0000112488,2020-03-01,2020-03-31,24,roczny,stałe,true,2.1,,,0.7,kwota z listu,99.9,358.3588,121.262,,MF + list
+DOS0322,DOS,PL0000112488,2020-03-01,2020-03-31,24,roczny,stałe,true,2.1,,,0.7,kwota z listu,99.9,358.3588,121.262,12/2020,MF + list
 DOS0422,DOS,PL0000112561,2020-04-01,2020-04-30,24,roczny,stałe,true,2.1,,,0.7,kwota z listu,99.9,799.4063,122.7873,19/2020,MF + list
 DOS0522,DOS,PL0000112645,2020-05-01,2020-05-31,24,roczny,stałe,true,1,,,0.7,kwota z listu,99.9,160.0435,73.1269,29/2020,MF + list
 DOS0622,DOS,PL0000112777,2020-06-01,2020-06-30,24,roczny,stałe,true,1,,,0.7,kwota z listu,99.9,202.3877,59.3351,41/2020,MF + list
 DOS0722,DOS,PL0000112843,2020-07-01,2020-07-31,24,roczny,stałe,true,1,,,0.7,kwota z listu,99.9,344.4664,170.4072,48/2020,MF + list
 DOS0822,DOS,PL0000112934,2020-08-01,2020-08-31,24,roczny,stałe,true,1,,,0.7,kwota z listu,99.9,269.5963,98.5165,58/2020,MF + list
-DOS0922,DOS,PL0000113007,2020-09-01,2020-09-30,24,roczny,stałe,true,1,,,,,99.9,278.3656,82.0355,,MF
+DOS0922,DOS,PL0000113007,2020-09-01,2020-09-30,24,roczny,stałe,true,1,,,0.7,kwota z listu,99.9,278.3656,82.0355,65/2020,MF + list
 DOS1022,DOS,PL0000113072,2020-10-01,2020-10-31,24,roczny,stałe,true,1,,,0.7,kwota z listu,99.9,368.5024,185.3048,72/2020,MF + list
 DOS1122,DOS,PL0000113155,2020-11-01,2020-11-30,24,roczny,stałe,true,1,,,0.7,kwota z listu,99.9,235.4141,87.8415,80/2020,MF + list
 DOS1222,DOS,PL0000113239,2020-12-01,2020-12-31,24,roczny,stałe,true,1,,,0.7,kwota z listu,99.9,237.2702,94.1147,88/2020,MF + list
@@ -684,24 +686,24 @@ EDO0117,EDO,PL0000104642,2007-01-01,2007-01-31,120,roczny,inflacja,true,5.5,2.5,
 EDO0217,EDO,PL0000104691,2007-02-01,2007-02-28,120,roczny,inflacja,true,5.75,2.25,4.35,1,kwota z listu,,21.7794,,6/2007,MF + list
 EDO0317,EDO,PL0000104741,2007-03-01,2007-03-31,120,roczny,inflacja,true,5.75,2.25,4.05,1,kwota z listu,,13.7706,,11/2007,MF + list
 EDO0417,EDO,PL0000104774,2007-04-01,2007-04-30,120,roczny,inflacja,true,5.75,2.25,3.85,1,kwota z listu,,7.6545,,14/2007,MF + list
-EDO0517,EDO,PL0000104816,2007-05-01,2007-05-31,120,roczny,inflacja,true,5.75,2.5,3.25,1,kwota z listu,,31.6616,,,MF + list
+EDO0517,EDO,PL0000104816,2007-05-01,2007-05-31,120,roczny,inflacja,true,5.75,2.5,3.25,1,kwota z listu,,31.6616,,18/2007,MF + list
 EDO0617,EDO,PL0000104840,2007-06-01,2007-06-30,120,roczny,inflacja,true,5.75,2.5,3.45,1,kwota z listu,,8.877,,23/2007,MF + list
 EDO0717,EDO,PL0000104881,2007-07-01,2007-07-31,120,roczny,inflacja,true,6,2.75,3.7,1,kwota z listu,,13.7538,,27/2007,MF + list
-EDO0817,EDO,PL0000104915,2007-08-01,2007-08-31,120,roczny,inflacja,true,6,2.75,3.4,1,kwota z listu,,24.4549,,,MF + list
+EDO0817,EDO,PL0000104915,2007-08-01,2007-08-31,120,roczny,inflacja,true,6,2.75,3.4,1,kwota z listu,,24.4549,,31/2007,MF + list
 EDO0917,EDO,PL0000104956,2007-09-01,2007-09-30,120,roczny,inflacja,true,6.5,2.75,4.2,1,kwota z listu,,44.4576,,34/2007,MF + list
 EDO1017,EDO,PL0000104980,2007-10-01,2007-10-31,120,roczny,inflacja,true,6.5,2.75,,1,kwota z listu,,34.4399,,37/2007,MF + list
 EDO1117,EDO,PL0000105029,2007-11-01,2007-11-30,120,roczny,inflacja,true,6.5,2.75,4.2,1,kwota z listu,,46.5202,,41/2007,MF + list
-EDO1217,EDO,PL0000105060,2007-12-01,2007-12-31,120,roczny,inflacja,true,6.75,2.75,,,,,107.2958,,,MF
+EDO1217,EDO,PL0000105060,2007-12-01,2007-12-31,120,roczny,inflacja,true,6.75,2.75,,1,kwota z listu,,107.2958,,46/2007,MF + list
 EDO0118,EDO,PL0000105102,2008-01-01,2008-01-31,120,roczny,inflacja,true,6.75,2.75,3.15,1,kwota z listu,,102.7634,,50/2007,MF + list
 EDO0218,EDO,PL0000105144,2008-02-01,2008-02-28,120,roczny,inflacja,true,6.5,2.75,2.5,1,kwota z listu,,41.9578,,4/2008,MF + list
 EDO0318,EDO,PL0000105177,2008-03-01,2008-03-31,120,roczny,inflacja,true,6.75,2.75,2.45,1,kwota z listu,,57.5002,,7/2008,MF + list
-EDO0418,EDO,PL0000105201,2008-04-01,2008-04-30,120,roczny,inflacja,true,6.75,2.75,2.55,1,kwota z listu,,37.4633,,,MF + list
+EDO0418,EDO,PL0000105201,2008-04-01,2008-04-30,120,roczny,inflacja,true,6.75,2.75,2.55,1,kwota z listu,,37.4633,,10/2008,MF + list
 EDO0518,EDO,PL0000105243,2008-05-01,2008-05-31,120,roczny,inflacja,true,6.75,2.75,2.65,1,kwota z listu,,30.7994,,15/2008,MF + list
 EDO0618,EDO,PL0000105276,2008-06-01,2008-06-30,120,roczny,inflacja,true,7,2.75,3,1,kwota z listu,,22.2054,,18/2008,MF + list
 EDO0718,EDO,PL0000105300,2008-07-01,2008-07-31,120,roczny,inflacja,true,7.25,2.75,2.85,1,kwota z listu,,55.7283,,23/2008,MF + list
 EDO0818,EDO,PL0000105334,2008-08-01,2008-08-31,120,roczny,inflacja,true,7.25,2.75,2.65,1,kwota z listu,,71.2069,,27/2008,MF + list
 EDO0918,EDO,PL0000105383,2008-09-01,2008-09-30,120,roczny,inflacja,true,7.25,2.75,2.45,1,kwota z listu,,53.3944,,31/2008,MF + list
-EDO1018,EDO,PL0000105425,2008-10-01,2008-10-31,120,roczny,inflacja,true,7,2.75,,,,,218.6173,,,MF
+EDO1018,EDO,PL0000105425,2008-10-01,2008-10-31,120,roczny,inflacja,true,7,2.75,,1,kwota z listu,,218.6173,,36/2008,MF + list
 EDO1118,EDO,PL0000105482,2008-11-01,2008-11-30,120,roczny,inflacja,true,7.5,2.75,3,1,kwota z listu,,76.1105,,41/2008,MF + list
 EDO1218,EDO,PL0000105516,2008-12-01,2008-12-31,120,roczny,inflacja,true,7.5,2.75,3.3,1,kwota z listu,,81.4088,,44/2008,MF + list
 EDO0119,EDO,PL0000105557,2009-01-01,2009-01-31,120,roczny,inflacja,true,7,2.75,3.3,1,kwota z listu,,72.2998,,48/2008,MF + list
@@ -715,17 +717,17 @@ EDO0819,EDO,PL0000105805,2009-08-01,2009-08-31,120,roczny,inflacja,true,6.75,2.7
 EDO0919,EDO,PL0000105839,2009-09-01,2009-09-30,120,roczny,inflacja,true,6.75,2.75,3.15,1,kwota z listu,,91.8265,,32/2009,MF + list
 EDO1019,EDO,PL0000105862,2009-10-01,2009-10-31,120,roczny,inflacja,true,6.75,2.75,3.05,1,kwota z listu,,110.1865,,36/2009,MF + list
 EDO1119,EDO,PL0000105896,2009-11-01,2009-11-30,120,roczny,inflacja,true,6.75,2.75,3.35,1,kwota z listu,,69.7671,,43/2009,MF + list
-EDO1219,EDO,PL0000105946,2009-12-01,2009-12-31,120,roczny,inflacja,true,6.75,2.75,3.65,1,kwota z listu,,104.9709,,,MF + list
-EDO0120,EDO,PL0000105987,2010-01-01,2010-01-31,120,roczny,inflacja,true,6.75,2.75,3.45,1,kwota z listu,,114.9734,,,MF + list
+EDO1219,EDO,PL0000105946,2009-12-01,2009-12-31,120,roczny,inflacja,true,6.75,2.75,3.65,1,kwota z listu,,104.9709,,48/2009,MF + list
+EDO0120,EDO,PL0000105987,2010-01-01,2010-01-31,120,roczny,inflacja,true,6.75,2.75,3.45,1,kwota z listu,,114.9734,,52/2009,MF + list
 EDO0220,EDO,PL0000106027,2010-02-01,2010-02-28,120,roczny,inflacja,true,6.75,2.75,3.25,1,kwota z listu,,123.3402,,4/2010,MF + list
 EDO0320,EDO,PL0000106050,2010-03-01,2010-03-31,120,roczny,inflacja,true,6.75,2.75,3.15,1,kwota z listu,,169.2268,,7/2010,MF + list
-EDO0420,EDO,PL0000106092,2010-04-01,2010-04-30,120,roczny,inflacja,true,5.25,3,2.35,2,kwota z listu,,19.1695,,,MF + list
-EDO0520,EDO,PL0000106159,2010-05-01,2010-05-31,120,roczny,inflacja,true,5.25,3,2.65,2,kwota z listu,,28.155,,,MF + list
+EDO0420,EDO,PL0000106092,2010-04-01,2010-04-30,120,roczny,inflacja,true,5.25,3,2.35,2,kwota z listu,,19.1695,,15/2010,MF + list
+EDO0520,EDO,PL0000106159,2010-05-01,2010-05-31,120,roczny,inflacja,true,5.25,3,2.65,2,kwota z listu,,28.155,,19/2010,MF + list
 EDO0620,EDO,PL0000106183,2010-06-01,2010-05-30,120,roczny,inflacja,true,5.25,3,2.85,2,kwota z listu,,18.7773,,22/2010,MF + list
 EDO0720,EDO,PL0000106217,2010-07-01,2010-07-31,120,roczny,inflacja,true,5.25,3,3.05,2,kwota z listu,,26.5991,,25/2010,MF + list
 EDO0820,EDO,PL0000106258,2010-08-01,2010-08-31,120,roczny,inflacja,true,5.25,3,2.95,2,kwota z listu,,22.3678,,31/2010,MF + list
 EDO0920,EDO,PL0000106282,2010-09-01,2010-09-30,120,roczny,inflacja,true,5.25,3,3.25,2,kwota z listu,,20.5595,,34/2010,MF + list
-EDO1020,EDO,PL0000106316,2010-10-01,2010-10-31,120,roczny,inflacja,true,5.25,3,3.25,2,kwota z listu,,41.4446,,,MF + list
+EDO1020,EDO,PL0000106316,2010-10-01,2010-10-31,120,roczny,inflacja,true,5.25,3,3.25,2,kwota z listu,,41.4446,,39/2010,MF + list
 EDO1120,EDO,PL0000106373,2010-11-01,2010-11-30,120,roczny,inflacja,true,5.25,3,2.75,2,kwota z listu,,21.872,,44/2010,MF + list
 EDO1220,EDO,PL0000106407,2010-12-01,2010-12-31,120,roczny,inflacja,true,5.25,3,2.45,2,kwota z listu,,27.9929,,47/2010,MF + list
 EDO0121,EDO,PL0000106431,2011-01-01,2011-01-31,120,roczny,inflacja,true,5.25,3,2.55,2,kwota z listu,,29.3,,50/2010,MF + list
@@ -733,9 +735,9 @@ EDO0221,EDO,PL0000106472,2011-02-01,2011-02-28,120,roczny,inflacja,true,5.75,3,2
 EDO0321,EDO,PL0000106514,2011-03-01,2011-03-31,120,roczny,inflacja,true,5.75,3,1.95,2,kwota z listu,,52.0013,,10/2011,MF + list
 EDO0421,EDO,PL0000106548,2011-04-01,2011-04-30,120,roczny,inflacja,true,5.75,3,2.15,2,kwota z listu,,38.5638,,14/2011,MF + list
 EDO0521,EDO,PL0000106597,2011-05-01,2011-05-31,120,roczny,inflacja,true,5.75,3,1.45,2,kwota z listu,,32.5395,,19/2011,MF + list
-EDO0621,EDO,PL0000106621,2011-06-01,2011-06-30,120,roczny,inflacja,true,5.75,3,1.25,2,kwota z listu,,24.9672,,,MF + list
+EDO0621,EDO,PL0000106621,2011-06-01,2011-06-30,120,roczny,inflacja,true,5.75,3,1.25,2,kwota z listu,,24.9672,,22/2011,MF + list
 EDO0721,EDO,PL0000106654,2011-07-01,2011-07-31,120,roczny,inflacja,true,5.75,3,0.75,2,kwota z listu,,36.2028,,27/2011,MF + list
-EDO0821,EDO,PL0000106704,2011-08-01,2011-08-31,120,roczny,inflacja,true,5.75,3,1.55,2,kwota z listu,,36.8358,,,MF + list
+EDO0821,EDO,PL0000106704,2011-08-01,2011-08-31,120,roczny,inflacja,true,5.75,3,1.55,2,kwota z listu,,36.8358,,34/2011,MF + list
 EDO0921,EDO,PL0000106746,2011-09-01,2011-09-30,120,roczny,inflacja,true,5.75,3,1.65,2,kwota z listu,,30.8529,,38/2011,MF + list
 EDO1021,EDO,PL0000106779,2011-10-01,2011-10-31,120,roczny,inflacja,true,5.75,3,1.45,2,kwota z listu,,22.2295,,41/2011,MF + list
 EDO1121,EDO,PL0000106829,2011-11-01,2011-11-30,120,roczny,inflacja,true,5.75,3,1.85,2,kwota z listu,,45.6125,,46/2011,MF + list
@@ -744,7 +746,7 @@ EDO0122,EDO,PL0000106886,2012-01-01,2012-01-31,120,roczny,inflacja,true,5.75,3,0
 EDO0222,EDO,PL0000106928,2012-02-01,2012-02-28,120,roczny,inflacja,true,6,3,1.4,2,kwota z listu,,92.0075,,4/2012,MF + list
 EDO0322,EDO,PL0000106969,2012-03-01,2012-03-31,120,roczny,inflacja,true,6.5,2.75,2.4,2,kwota z listu,,81.8035,,8/2012,MF + list
 EDO0422,EDO,PL0000106993,2012-04-01,2012-04-30,120,roczny,inflacja,true,6.5,2.75,2.2,2,kwota z listu,,71.0703,,12/2012,MF + list
-EDO0522,EDO,PL0000107033,2012-05-01,2012-05-31,120,roczny,inflacja,true,6.5,2.75,2.6,2,kwota z listu,,82.4896,,,MF + list
+EDO0522,EDO,PL0000107033,2012-05-01,2012-05-31,120,roczny,inflacja,true,6.5,2.75,2.6,2,kwota z listu,,82.4896,,17/2012,MF + list
 EDO0622,EDO,PL0000107082,2012-06-01,2012-06-30,120,roczny,inflacja,true,6.5,2.75,2.5,2,kwota z listu,99.9,159.6749,10.0018,24/2012,MF + list
 EDO0722,EDO,PL0000107124,2012-07-01,2012-07-31,120,roczny,inflacja,true,6,2.5,2.4,2,kwota z listu,99.9,44.3502,9.3588,30/2012,MF + list
 EDO0822,EDO,PL0000107165,2012-08-01,2012-08-31,120,roczny,inflacja,true,6,2.5,1.7,2,kwota z listu,99.9,45.5857,12.292,34/2012,MF + list
@@ -759,15 +761,15 @@ EDO0423,EDO,PL0000107538,2013-04-01,2013-04-30,120,roczny,inflacja,true,5,1.5,3.
 EDO0523,EDO,PL0000107561,2013-05-01,2013-05-31,120,roczny,inflacja,true,4,1.5,3,2,kwota z listu,99.9,17.8016,4.4857,20/2013,MF + list
 EDO0623,EDO,PL0000107645,2013-06-01,2013-06-30,120,roczny,inflacja,true,4,1.5,3.2,2,kwota z listu,99.9,19.398,4.223,28/2013,MF + list
 EDO0723,EDO,PL0000107686,2013-07-01,2013-07-31,120,roczny,inflacja,true,4,1.5,3.5,2,kwota z listu,99.9,25.7359,1.2295,32/2013,MF + list
-EDO0823,EDO,PL0000107736,2013-08-01,2013-08-31,120,roczny,inflacja,true,4,1.5,3.8,2,kwota z listu,99.9,14.9958,0.6778,,MF + list
+EDO0823,EDO,PL0000107736,2013-08-01,2013-08-31,120,roczny,inflacja,true,4,1.5,3.8,2,kwota z listu,99.9,14.9958,0.6778,37/2013,MF + list
 EDO0923,EDO,PL0000107777,2013-09-01,2013-09-30,120,roczny,inflacja,true,4,1.5,2.9,2,kwota z listu,99.9,12.8488,1.2665,41/2013,MF + list
 EDO1023,EDO,PL0000107819,2013-10-01,2013-10-31,120,roczny,inflacja,true,4,1.5,2.9,2,kwota z listu,99.9,18.4412,1.0035,45/2013,MF + list
 EDO1123,EDO,PL0000107850,2013-11-01,2013-11-30,120,roczny,inflacja,true,4,1.5,3,2,kwota z listu,99.9,14.547,0.9662,51/2013,MF + list
 EDO1223,EDO,PL0000107900,2013-12-01,2013-12-31,120,roczny,inflacja,true,4,1.5,3.2,2,kwota z listu,99.9,20.9174,1.595,57/2013,MF + list
 EDO0124,EDO,PL0000107959,2014-01-01,2014-01-31,120,roczny,inflacja,true,4,1.5,3.4,2,kwota z listu,99.9,35.1091,1.7827,62/2013,MF + list
-EDO0224,EDO,PL0000107991,2014-02-01,2014-02-28,120,roczny,inflacja,true,4,1.5,3.3,2,kwota z listu,99.9,26.5801,2.286,,MF + list
+EDO0224,EDO,PL0000107991,2014-02-01,2014-02-28,120,roczny,inflacja,true,4,1.5,3.3,2,kwota z listu,99.9,26.5801,2.286,7/2014,MF + list
 EDO0324,EDO,PL0000108049,2014-03-01,2014-03-31,120,roczny,inflacja,true,4,1.5,3.3,2,kwota z listu,99.9,16.0511,1.0558,12/2014,MF + list
-EDO0424,EDO,PL0000108080,2014-04-01,2014-04-30,120,roczny,inflacja,true,4,1.5,3.3,2,kwota z listu,99.9,16.474,0.4448,,MF + list
+EDO0424,EDO,PL0000108080,2014-04-01,2014-04-30,120,roczny,inflacja,true,4,1.5,3.3,2,kwota z listu,99.9,16.474,0.4448,16/2014,MF + list
 EDO0524,EDO,PL0000108122,2014-05-01,2014-05-31,120,roczny,inflacja,true,4,1.5,3.3,2,kwota z listu,99.9,22.2684,0.4529,20/2014,MF + list
 EDO0624,EDO,PL0000108171,2014-06-01,2014-06-30,120,roczny,inflacja,true,4,1.5,3.7,2,kwota z listu,99.9,12.1348,0.5558,25/2014,MF + list
 EDO0724,EDO,PL0000108221,2014-07-01,2014-07-31,120,roczny,inflacja,true,4,1.5,3.8,2,kwota z listu,99.9,12.4692,0.3075,30/2014,MF + list
@@ -820,7 +822,7 @@ EDO0528,EDO,PL0000110805,2018-05-01,2018-05-31,120,roczny,inflacja,true,2.7,1.5,
 EDO0628,EDO,PL0000110888,2018-06-01,2018-06-30,120,roczny,inflacja,true,2.7,1.5,,2,kwota z listu,99.9,59.1934,10.0527,40/2018,MF + list
 EDO0728,EDO,PL0000110953,2018-07-01,2018-07-31,120,roczny,inflacja,true,2.7,1.5,,2,kwota z listu,99.9,70.0234,15.7527,47/2018,MF + list
 EDO0828,EDO,PL0000111027,2018-08-01,2018-08-31,120,roczny,inflacja,true,2.7,1.5,,2,kwota z listu,99.9,63.4412,15.665,54/2018,MF + list
-EDO0928,EDO,PL0000111092,2018-09-01,2018-09-30,120,roczny,inflacja,true,2.7,1.5,,2,kwota z listu,99.9,63.7358,15.0172,,MF + list
+EDO0928,EDO,PL0000111092,2018-09-01,2018-09-30,120,roczny,inflacja,true,2.7,1.5,,2,kwota z listu,99.9,63.7358,15.0172,61/2018,MF + list
 EDO1028,EDO,PL0000111167,2018-10-01,2018-10-31,120,roczny,inflacja,true,2.7,1.5,,2,kwota z listu,99.5,158.3798,52.2926,68/2018,MF + list
 EDO1128,EDO,PL0000111241,2018-11-01,2018-11-30,120,roczny,inflacja,true,2.7,1.5,,2,kwota z listu,99.9,95.6596,25.7827,76/2018,MF + list
 EDO1228,EDO,PL0000111324,2018-12-01,2018-12-31,120,roczny,inflacja,true,2.7,1.5,,2,kwota z listu,99.9,99.2279,26.8742,84/2018,MF + list
@@ -831,11 +833,11 @@ EDO0429,EDO,PL0000111613,2019-04-01,2019-04-30,120,roczny,inflacja,true,2.7,1.5,
 EDO0529,EDO,PL0000111696,2019-05-01,2019-05-31,120,roczny,inflacja,true,2.7,1.5,,2,kwota z listu,99.9,106.1192,16.4758,30/2019,MF + list
 EDO0629,EDO,PL0000111795,2019-06-01,2019-06-30,120,roczny,inflacja,true,2.7,1.5,,2,kwota z listu,99.9,104.934,39.2168,40/2019,MF + list
 EDO0729,EDO,PL0000111878,2019-07-01,2019-07-31,120,roczny,inflacja,true,2.7,1.5,,2,kwota z listu,99.9,160.0174,32.2698,48/2019,MF + list
-EDO0829,EDO,PL0000111977,2019-08-01,2019-08-31,120,roczny,inflacja,true,2.7,1.5,,2,kwota z listu,99.9,169.6116,20.2428,,MF + list
+EDO0829,EDO,PL0000111977,2019-08-01,2019-08-31,120,roczny,inflacja,true,2.7,1.5,,2,kwota z listu,99.9,169.6116,20.2428,59/2019,MF + list
 EDO0929,EDO,PL0000112058,2019-09-01,2019-09-30,120,roczny,inflacja,true,2.7,1.5,,2,kwota z listu,99.9,162.8461,25.9027,66/2019,MF + list
 EDO1029,EDO,PL0000112132,2019-10-01,2019-10-31,120,roczny,inflacja,true,2.7,1.5,,2,kwota z listu,99.9,183.3454,26.0002,75/2019,MF + list
 EDO1129,EDO,PL0000112215,2019-11-01,2019-11-30,120,roczny,inflacja,true,2.7,1.5,,2,kwota z listu,99.9,169.2917,25.882,82/2019,MF + list
-EDO1229,EDO,PL0000112280,2019-12-01,2019-12-31,120,roczny,inflacja,true,2.7,1.5,,2,kwota z listu,99.9,187.3093,37.2328,,MF + list
+EDO1229,EDO,PL0000112280,2019-12-01,2019-12-31,120,roczny,inflacja,true,2.7,1.5,,2,kwota z listu,99.9,187.3093,37.2328,89/2019,MF + list
 EDO0130,EDO,PL0000112363,2020-01-01,2020-01-31,120,roczny,inflacja,true,2.7,1.5,,2,kwota z listu,99.9,311.0421,56.746,97/2019,MF + list
 EDO0230,EDO,PL0000112447,2020-02-01,2020-02-28,120,roczny,inflacja,true,2.7,1.5,,2,kwota z listu,99.9,221.7705,48.3834,7/2020,MF + list
 EDO0330,EDO,PL0000112512,2020-03-01,2020-03-31,120,roczny,inflacja,true,2.7,1.5,,2,kwota z listu,99.9,206.2067,39.0442,15/2020,MF + list
@@ -856,7 +858,7 @@ EDO0531,EDO,PL0000113684,2021-05-01,2021-05-31,120,roczny,inflacja,true,1.7,1,,2
 EDO0631,EDO,PL0000113759,2021-06-01,2021-06-30,120,roczny,inflacja,true,1.7,1,,2,kwota z listu,99.9,179.581,32.7242,40/2021,MF + list
 EDO0731,EDO,PL0000113858,2021-07-01,2021-07-31,120,roczny,inflacja,true,1.7,1,,2,kwota z listu,99.9,234.4388,39.5853,49/2021,MF + list
 EDO0831,EDO,PL0000113924,2021-08-01,2021-08-31,120,roczny,inflacja,true,1.7,1,,2,kwota z listu,99.9,237.122,47.2629,56/2021,MF + list
-EDO0931,EDO,PL0000113999,2021-09-01,2021-09-30,120,roczny,inflacja,true,1.7,1,,2,kwota z listu,99.9,229.8685,35.4537,,MF + list
+EDO0931,EDO,PL0000113999,2021-09-01,2021-09-30,120,roczny,inflacja,true,1.7,1,,2,kwota z listu,99.9,229.8685,35.4537,64/2021,MF + list
 EDO1031,EDO,PL0000114096,2021-10-01,2021-10-31,120,roczny,inflacja,true,1.7,1,,2,kwota z listu,99.9,230.4432,42.3863,72/2021,MF + list
 EDO1131,EDO,PL0000114179,2021-11-01,2021-11-30,120,roczny,inflacja,true,1.7,1,,2,kwota z listu,99.9,274.7246,72.7109,82/2021,MF + list
 EDO1231,EDO,PL0000114245,2021-12-01,2021-12-31,120,roczny,inflacja,true,1.7,1,,2,kwota z listu,99.9,346.2217,39.8149,89/2021,MF + list
@@ -916,8 +918,9 @@ EDO0536,EDO,PL0000119145,2026-05-01,2026-05-31,120,roczny,inflacja,true,5.35,2,,
 EDO0636,EDO,PL0000119236,2026-06-01,2026-06-30,120,roczny,inflacja,true,5.35,2,,3,kwota z listu,99.9,763.1391,83.5902,55/2026,MF + list
 EDO0736,EDO,PL0000119319,2026-07-01,2026-07-31,120,roczny,inflacja,true,5.35,2,,3,kwota z listu,99.9,926.6083,101.0137,66/2026,MF + list
 EDO0836,EDO,PL0000119392,2026-08-01,2026-08-31,120,roczny,inflacja,true,5.35,2,,3,kwota z listu,99.9,865.2907,100.4488,78/2026,MF + list
-EDO0936,EDO,PL0000119483,2026-09-01,2026-09-30,120,roczny,inflacja,true,5.35,2,,3,kwota z listu,99.9,,,87/2026,MF + list
-EDO1036,EDO,,2026-10-01,,120,roczny,inflacja,true,5.35,2,,3,kwota z listu,,,,99/2026,list
+EDO0936,EDO,PL0000119483,2026-09-01,2026-09-30,120,roczny,inflacja,true,5.35,2,,3,kwota z listu,99.9,994.4847,91.9421,87/2026,MF + list
+EDO1036,EDO,PL0000119566,2026-10-01,2026-10-31,120,roczny,inflacja,true,5.35,2,,3,kwota z listu,99.9,,,99/2026,MF + list
+EDO1136,EDO,,2026-11-01,,120,roczny,inflacja,true,5.35,2,,3,kwota z listu,,,,108/2026,list
 OTS0118,OTS,PL0000110292,2017-10-01,2017-10-31,3,jednorazowo przy wykupie,stałe,false,1.5,,,,bez odsetek,,313.4814,,55/2017,MF + list
 OTS0218,OTS,PL0000110300,2017-11-01,2017-11-30,3,jednorazowo przy wykupie,stałe,false,1.5,,,,bez odsetek,,179.1388,,63/2017,MF + list
 OTS0318,OTS,PL0000110409,2017-12-01,2017-12-31,3,jednorazowo przy wykupie,stałe,false,1.5,,,,bez odsetek,,157.7078,,72/2017,MF + list
@@ -929,7 +932,7 @@ OTS0818,OTS,PL0000110763,2018-05-01,2018-05-31,3,jednorazowo przy wykupie,stałe
 OTS0918,OTS,PL0000110839,2018-06-01,2018-06-30,3,jednorazowo przy wykupie,stałe,false,1.5,,,,bez odsetek,100,326.4716,37.967,36/2018,MF + list
 OTS1018,OTS,PL0000110912,2018-07-01,2018-07-31,3,jednorazowo przy wykupie,stałe,false,1.5,,,,bez odsetek,100,399.3612,74.2164,43/2018,MF + list
 OTS1118,OTS,PL0000110987,2018-08-01,2018-08-31,3,jednorazowo przy wykupie,stałe,false,1.5,,,,bez odsetek,100,445.9128,67.7318,50/2018,MF + list
-OTS1218,OTS,PL0000111050,2018-09-01,2018-09-30,3,jednorazowo przy wykupie,stałe,false,1.5,,,,bez odsetek,100,397.4503,55.068,,MF + list
+OTS1218,OTS,PL0000111050,2018-09-01,2018-09-30,3,jednorazowo przy wykupie,stałe,false,1.5,,,,bez odsetek,100,397.4503,55.068,57/2018,MF + list
 OTS0119,OTS,PL0000111126,2018-10-01,2018-10-31,3,jednorazowo przy wykupie,stałe,false,1.5,,,,bez odsetek,100,417.2382,78.5352,64/2018,MF + list
 OTS0219,OTS,PL0000111209,2018-11-01,2018-11-30,3,jednorazowo przy wykupie,stałe,false,1.5,,,,bez odsetek,100,389.2893,63.2017,72/2018,MF + list
 OTS0319,OTS,PL0000111282,2018-12-01,2018-12-31,3,jednorazowo przy wykupie,stałe,false,1.5,,,,bez odsetek,100,364.1004,58.9577,80/2018,MF + list
@@ -944,7 +947,7 @@ OTS1119,OTS,PL0000111936,2019-08-01,2019-08-31,3,jednorazowo przy wykupie,stałe
 OTS1219,OTS,PL0000112017,2019-09-01,2019-09-30,3,jednorazowo przy wykupie,stałe,false,1.5,,,,bez odsetek,100,398.9941,48.2434,62/2019,MF + list
 OTS0120,OTS,PL0000112090,2019-10-01,2019-10-31,3,jednorazowo przy wykupie,stałe,false,1.5,,,,bez odsetek,100,527.6588,84.0789,71/2019,MF + list
 OTS0220,OTS,PL0000112173,2019-11-01,2019-11-30,3,jednorazowo przy wykupie,stałe,false,1.5,,,,bez odsetek,100,472.4159,82.4629,78/2019,MF + list
-OTS0320,OTS,PL0000112249,2019-12-01,2019-12-31,3,jednorazowo przy wykupie,stałe,false,1.5,,,,bez odsetek,100,424.0045,76.8691,,MF + list
+OTS0320,OTS,PL0000112249,2019-12-01,2019-12-31,3,jednorazowo przy wykupie,stałe,false,1.5,,,,bez odsetek,100,424.0045,76.8691,85/2019,MF + list
 OTS0420,OTS,PL0000112322,2020-01-01,2020-01-31,3,jednorazowo przy wykupie,stałe,false,1.5,,,,bez odsetek,100,654.7266,99.3776,93/2019,MF + list
 OTS0520,OTS,PL0000112405,2020-02-01,2020-02-28,3,jednorazowo przy wykupie,stałe,false,1.5,,,,bez odsetek,100,571.6868,93.8644,3/2020,MF + list
 OTS0620,OTS,PL0000112470,2020-03-01,2020-03-31,3,jednorazowo przy wykupie,stałe,false,1.5,,,,bez odsetek,100,596.6686,65.3279,11/2020,MF + list
@@ -1025,8 +1028,9 @@ OTS0826,OTS,PL0000119095,2026-05-01,2026-05-31,3,jednorazowo przy wykupie,stałe
 OTS0926,OTS,PL0000119186,2026-06-01,2026-06-30,3,jednorazowo przy wykupie,stałe,false,2,,,,bez odsetek,100,207.0864,23.9851,50/2026,MF + list
 OTS1026,OTS,PL0000119269,2026-07-01,2026-07-31,3,jednorazowo przy wykupie,stałe,false,2,,,,bez odsetek,100,225.037,18.0344,61/2026,MF + list
 OTS1126,OTS,PL0000119343,2026-08-01,2026-08-31,3,jednorazowo przy wykupie,stałe,false,2,,,,bez odsetek,100,211.2538,18.4362,73/2026,MF + list
-OTS1226,OTS,PL0000119434,2026-09-01,2026-09-30,3,jednorazowo przy wykupie,stałe,false,2,,,,bez odsetek,100,,,82/2026,MF + list
-OTS0127,OTS,,2026-10-01,,3,jednorazowo przy wykupie,stałe,false,2,,,,bez odsetek,,,,94/2026,list
+OTS1226,OTS,PL0000119434,2026-09-01,2026-09-30,3,jednorazowo przy wykupie,stałe,false,2,,,,bez odsetek,100,212.193,22.3541,82/2026,MF + list
+OTS0127,OTS,PL0000119517,2026-10-01,2026-10-31,3,jednorazowo przy wykupie,stałe,false,2,,,,bez odsetek,100,,,94/2026,MF + list
+OTS0227,OTS,,2026-11-01,,3,jednorazowo przy wykupie,stałe,false,2,,,,bez odsetek,,,,103/2026,list
 ROD1028,ROD,PL0000109484,2016-10-01,2016-10-31,144,roczny,inflacja,true,3,2,3,2,kwota z listu,,0.305,,48/2016,MF + list
 ROD1128,ROD,PL0000109559,2016-11-01,2016-11-30,144,roczny,inflacja,true,3,2,3,2,kwota z listu,,0.6364,,57/2016,MF + list
 ROD1228,ROD,PL0000109617,2016-12-01,2016-12-31,144,roczny,inflacja,true,3.2,2,3.2,2,kwota z listu,,0.6557,,64/2016,MF + list
@@ -1050,7 +1054,7 @@ ROD0530,ROD,PL0000110821,2018-05-01,2018-05-31,144,roczny,inflacja,true,3.2,2,,2
 ROD0630,ROD,PL0000110904,2018-06-01,2018-06-30,144,roczny,inflacja,true,3.2,2,,2,kwota z listu,,1.1093,,42/2018,MF + list
 ROD0730,ROD,PL0000110979,2018-07-01,2018-07-31,144,roczny,inflacja,true,3.2,2,,2,kwota z listu,,1.2955,,49/2018,MF + list
 ROD0830,ROD,PL0000111043,2018-08-01,2018-08-31,144,roczny,inflacja,true,3.2,2,,2,kwota z listu,,1.344,,56/2018,MF + list
-ROD0930,ROD,PL0000111118,2018-09-01,2018-09-30,144,roczny,inflacja,true,3.2,2,,2,kwota z listu,,1.4678,,,MF + list
+ROD0930,ROD,PL0000111118,2018-09-01,2018-09-30,144,roczny,inflacja,true,3.2,2,,2,kwota z listu,,1.4678,,63/2018,MF + list
 ROD1030,ROD,PL0000111183,2018-10-01,2018-10-31,144,roczny,inflacja,true,3.2,2,,2,kwota z listu,,1.3162,,70/2018,MF + list
 ROD1130,ROD,PL0000111266,2018-11-01,2018-11-30,144,roczny,inflacja,true,3.2,2,,2,kwota z listu,,1.8313,,78/2018,MF + list
 ROD1230,ROD,PL0000111340,2018-12-01,2018-12-31,144,roczny,inflacja,true,3.2,2,,2,kwota z listu,,1.6255,,86/2018,MF + list
@@ -1065,10 +1069,10 @@ ROD0831,ROD,PL0000111993,2019-08-01,2019-08-31,144,roczny,inflacja,true,3.2,2,,2
 ROD0931,ROD,PL0000112074,2019-09-01,2019-09-30,144,roczny,inflacja,true,3.2,2,,2,kwota z listu,,6.5345,,68/2019,MF + list
 ROD1031,ROD,PL0000112157,2019-10-01,2019-10-31,144,roczny,inflacja,true,3.2,2,,2,kwota z listu,,6.3769,,77/2019,MF + list
 ROD1131,ROD,PL0000112231,2019-11-01,2019-11-30,144,roczny,inflacja,true,3.2,2,,2,kwota z listu,,7.323,,84/2019,MF + list
-ROD1231,ROD,PL0000112306,2019-12-01,2019-12-31,144,roczny,inflacja,true,3.2,2,,2,kwota z listu,,9.0487,,,MF + list
+ROD1231,ROD,PL0000112306,2019-12-01,2019-12-31,144,roczny,inflacja,true,3.2,2,,2,kwota z listu,,9.0487,,91/2019,MF + list
 ROD0132,ROD,PL0000112389,2020-01-01,2020-01-31,144,roczny,inflacja,true,3.2,2,,2,kwota z listu,,9.7245,,99/2019,MF + list
 ROD0232,ROD,PL0000112462,2020-02-01,2020-02-28,144,roczny,inflacja,true,3.2,2,,2,kwota z listu,,8.9585,,9/2020,MF + list
-ROD0332,ROD,PL0000112538,2020-03-01,2020-03-31,144,roczny,inflacja,true,3.2,2,,2,kwota z listu,,9.164,,,MF + list
+ROD0332,ROD,PL0000112538,2020-03-01,2020-03-31,144,roczny,inflacja,true,3.2,2,,2,kwota z listu,,9.164,,17/2020,MF + list
 ROD0432,ROD,PL0000112611,2020-04-01,2020-04-30,144,roczny,inflacja,true,3.2,2,,2,kwota z listu,,22.7919,,24/2020,MF + list
 ROD0532,ROD,PL0000112694,2020-05-01,2020-05-31,144,roczny,inflacja,true,2,1.5,,2,kwota z listu,,4.4544,,34/2020,MF + list
 ROD0632,ROD,PL0000112827,2020-06-01,2020-06-30,144,roczny,inflacja,true,2,1.5,,2,kwota z listu,,4.5364,,46/2020,MF + list
@@ -1086,7 +1090,7 @@ ROD0533,ROD,PL0000113700,2021-05-01,2021-05-31,144,roczny,inflacja,true,2,1.5,,2
 ROD0633,ROD,PL0000113775,2021-06-01,2021-06-30,144,roczny,inflacja,true,2,1.5,,2,kwota z listu,,10.1218,,42/2021,MF + list
 ROD0733,ROD,PL0000113874,2021-07-01,2021-07-31,144,roczny,inflacja,true,2,1.5,,2,kwota z listu,,8.9862,,51/2021,MF + list
 ROD0833,ROD,PL0000113940,2021-08-01,2021-08-31,144,roczny,inflacja,true,2,1.5,,2,kwota z listu,,10.9898,,58/2021,MF + list
-ROD0933,ROD,PL0000114013,2021-09-01,2021-09-30,144,roczny,inflacja,true,2,1.5,,2,kwota z listu,,12.6501,,,MF + list
+ROD0933,ROD,PL0000114013,2021-09-01,2021-09-30,144,roczny,inflacja,true,2,1.5,,2,kwota z listu,,12.6501,,66/2021,MF + list
 ROD1033,ROD,PL0000114112,2021-10-01,2021-10-31,144,roczny,inflacja,true,2,1.5,,2,kwota z listu,,13.2536,,74/2021,MF + list
 ROD1133,ROD,PL0000114195,2021-11-01,2021-11-30,144,roczny,inflacja,true,2,1.5,,2,kwota z listu,,14.5463,,84/2021,MF + list
 ROD1233,ROD,PL0000114260,2021-12-01,2021-12-31,144,roczny,inflacja,true,2,1.5,,2,kwota z listu,,19.6054,,91/2021,MF + list
@@ -1146,8 +1150,9 @@ ROD0538,ROD,PL0000119160,2026-05-01,2026-05-31,144,roczny,inflacja,true,5.6,2.5,
 ROD0638,ROD,PL0000119251,2026-06-01,2026-06-30,144,roczny,inflacja,true,5.6,2.5,,3,kwota z listu,,86.3442,,57/2026,MF + list
 ROD0738,ROD,PL0000119335,2026-07-01,2026-07-31,144,roczny,inflacja,true,5.6,2.5,,3,kwota z listu,,90.2507,,68/2026,MF + list
 ROD0838,ROD,PL0000119418,2026-08-01,2026-08-31,144,roczny,inflacja,true,5.6,2.5,,3,kwota z listu,,92.828,,80/2026,MF + list
-ROD0938,ROD,PL0000119509,2026-09-01,2026-09-30,144,roczny,inflacja,true,5.6,2.5,,3,kwota z listu,,,,89/2026,MF + list
-ROD1038,ROD,,2026-10-01,,144,roczny,inflacja,true,5.6,2.5,,3,kwota z listu,,,,101/2026,list
+ROD0938,ROD,PL0000119509,2026-09-01,2026-09-30,144,roczny,inflacja,true,5.6,2.5,,3,kwota z listu,,108.89,,89/2026,MF + list
+ROD1038,ROD,PL0000119582,2026-10-01,2026-10-31,144,roczny,inflacja,true,5.6,2.5,,3,kwota z listu,,,,101/2026,MF + list
+ROD1138,ROD,,2026-11-01,,144,roczny,inflacja,true,5.6,2.5,,3,kwota z listu,,,,110/2026,list
 ROR0623,ROR,PL0000114716,2022-06-01,2022-06-30,12,miesięczny,stopa referencyjna NBP,false,5.25,0,,0.5,kwota z listu,99.9,5684.4758,127.8835,64/2022,MF + list
 ROR0723,ROR,PL0000114799,2022-07-01,2022-07-31,12,miesięczny,stopa referencyjna NBP,false,6,0,,0.5,kwota z listu,99.9,3422.6381,130.7118,77/2022,MF + list
 ROR0823,ROR,PL0000114872,2022-08-01,2022-08-31,12,miesięczny,stopa referencyjna NBP,false,6.5,0,,0.5,kwota z listu,99.9,1707.1691,74.4334,85/2022,MF + list
@@ -1199,8 +1204,9 @@ ROR0527,ROR,PL0000119103,2026-05-01,2026-05-31,12,miesięczny,stopa referencyjna
 ROR0627,ROR,PL0000119194,2026-06-01,2026-06-30,12,miesięczny,stopa referencyjna NBP,false,4,0,,0.5,kwota z listu,99.9,3755.6496,1486.1625,51/2026,MF + list
 ROR0727,ROR,PL0000119277,2026-07-01,2026-07-31,12,miesięczny,stopa referencyjna NBP,false,4,0,,0.5,kwota z listu,99.9,3961.6276,1370.8316,62/2026,MF + list
 ROR0827,ROR,PL0000119350,2026-08-01,2026-08-31,12,miesięczny,stopa referencyjna NBP,false,4,0,,0.5,kwota z listu,99.9,3194.3497,1004.5792,74/2026,MF + list
-ROR0927,ROR,PL0000119442,2026-09-01,2026-09-30,12,miesięczny,stopa referencyjna NBP,false,4,0,,0.5,kwota z listu,99.9,,,83/2026,MF + list
-ROR1027,ROR,,2026-10-01,,12,miesięczny,stopa referencyjna NBP,false,4,0,,0.5,kwota z listu,,,,95/2026,list
+ROR0927,ROR,PL0000119442,2026-09-01,2026-09-30,12,miesięczny,stopa referencyjna NBP,false,4,0,,0.5,kwota z listu,99.9,3038.0768,701.3564,83/2026,MF + list
+ROR1027,ROR,PL0000119525,2026-10-01,2026-10-31,12,miesięczny,stopa referencyjna NBP,false,4,0,,0.5,kwota z listu,99.9,,,95/2026,MF + list
+ROR1127,ROR,,2026-11-01,,12,miesięczny,stopa referencyjna NBP,false,4,0,,0.5,kwota z listu,,,,104/2026,list
 ROS1022,ROS,PL0000109476,2016-10-01,2016-10-31,72,roczny,inflacja,true,2.6,1.75,2.6,0.7,kwota z listu,,0.4778,,47/2016,MF + list
 ROS1122,ROS,PL0000109542,2016-11-01,2016-11-30,72,roczny,inflacja,true,2.6,1.75,2.6,0.7,kwota z listu,,0.697,,56/2016,MF + list
 ROS1222,ROS,PL0000109609,2016-12-01,2016-12-31,72,roczny,inflacja,true,2.8,1.75,2.8,0.7,kwota z listu,,0.4116,,63/2016,MF + list
@@ -1239,10 +1245,10 @@ ROS0825,ROS,PL0000111985,2019-08-01,2019-08-31,72,roczny,inflacja,true,2.8,1.75,
 ROS0925,ROS,PL0000112066,2019-09-01,2019-09-30,72,roczny,inflacja,true,2.8,1.75,,0.7,kwota z listu,,4.2139,,67/2019,MF + list
 ROS1025,ROS,PL0000112140,2019-10-01,2019-10-31,72,roczny,inflacja,true,2.8,1.75,,0.7,kwota z listu,,5.4277,,76/2019,MF + list
 ROS1125,ROS,PL0000112223,2019-11-01,2019-11-30,72,roczny,inflacja,true,2.8,1.75,,0.7,kwota z listu,,5.877,,83/2019,MF + list
-ROS1225,ROS,PL0000112298,2019-12-01,2019-12-31,72,roczny,inflacja,true,2.8,1.75,,0.7,kwota z listu,,6.6456,,,MF + list
+ROS1225,ROS,PL0000112298,2019-12-01,2019-12-31,72,roczny,inflacja,true,2.8,1.75,,0.7,kwota z listu,,6.6456,,90/2019,MF + list
 ROS0126,ROS,PL0000112371,2020-01-01,2020-01-31,72,roczny,inflacja,true,2.8,1.75,,0.7,kwota z listu,,9.3853,,98/2019,MF + list
 ROS0226,ROS,PL0000112454,2020-02-01,2020-02-28,72,roczny,inflacja,true,2.8,1.75,,0.7,kwota z listu,,9.4062,,8/2020,MF + list
-ROS0326,ROS,PL0000112520,2020-03-01,2020-03-31,72,roczny,inflacja,true,2.8,1.75,,0.7,kwota z listu,,9.3116,,,MF + list
+ROS0326,ROS,PL0000112520,2020-03-01,2020-03-31,72,roczny,inflacja,true,2.8,1.75,,0.7,kwota z listu,,9.3116,,16/2020,MF + list
 ROS0426,ROS,PL0000112603,2020-04-01,2020-04-30,72,roczny,inflacja,true,2.8,1.75,,0.7,kwota z listu,,25.0038,,23/2020,MF + list
 ROS0526,ROS,PL0000112686,2020-05-01,2020-05-31,72,roczny,inflacja,true,1.5,1.25,,0.7,kwota z listu,,4.2018,,33/2020,MF + list
 ROS0626,ROS,PL0000112819,2020-06-01,2020-06-30,72,roczny,inflacja,true,1.5,1.25,,0.7,kwota z listu,,4.4024,,45/2020,MF + list
@@ -1260,7 +1266,7 @@ ROS0527,ROS,PL0000113692,2021-05-01,2021-05-31,72,roczny,inflacja,true,1.5,1.25,
 ROS0627,ROS,PL0000113767,2021-06-01,2021-06-30,72,roczny,inflacja,true,1.5,1.25,,0.7,kwota z listu,,9.4155,,41/2021,MF + list
 ROS0727,ROS,PL0000113866,2021-07-01,2021-07-31,72,roczny,inflacja,true,1.5,1.25,,0.7,kwota z listu,,8.8879,,50/2021,MF + list
 ROS0827,ROS,PL0000113932,2021-08-01,2021-08-31,72,roczny,inflacja,true,1.5,1.25,,0.7,kwota z listu,,10.4313,,57/2021,MF + list
-ROS0927,ROS,PL0000114005,2021-09-01,2021-09-30,72,roczny,inflacja,true,1.5,1.25,,0.7,kwota z listu,,12.0662,,,MF + list
+ROS0927,ROS,PL0000114005,2021-09-01,2021-09-30,72,roczny,inflacja,true,1.5,1.25,,0.7,kwota z listu,,12.0662,,65/2021,MF + list
 ROS1027,ROS,PL0000114104,2021-10-01,2021-10-31,72,roczny,inflacja,true,1.5,1.25,,0.7,kwota z listu,,12.3015,,73/2021,MF + list
 ROS1127,ROS,PL0000114187,2021-11-01,2021-11-30,72,roczny,inflacja,true,1.5,1.25,,0.7,kwota z listu,,12.3728,,83/2021,MF + list
 ROS1227,ROS,PL0000114252,2021-12-01,2021-12-31,72,roczny,inflacja,true,1.5,1.25,,0.7,kwota z listu,,15.0851,,90/2021,MF + list
@@ -1320,8 +1326,9 @@ ROS0532,ROS,PL0000119152,2026-05-01,2026-05-31,72,roczny,inflacja,true,5,2,,2,kw
 ROS0632,ROS,PL0000119244,2026-06-01,2026-06-30,72,roczny,inflacja,true,5,2,,2,kwota z listu,,33.7951,,56/2026,MF + list
 ROS0732,ROS,PL0000119327,2026-07-01,2026-07-31,72,roczny,inflacja,true,5,2,,2,kwota z listu,,34.9135,,67/2026,MF + list
 ROS0832,ROS,PL0000119400,2026-08-01,2026-08-31,72,roczny,inflacja,true,5,2,,2,kwota z listu,,33.4964,,79/2026,MF + list
-ROS0932,ROS,PL0000119491,2026-09-01,2026-09-30,72,roczny,inflacja,true,5,2,,2,kwota z listu,,,,88/2026,MF + list
-ROS1032,ROS,,2026-10-01,,72,roczny,inflacja,true,5,2,,2,kwota z listu,,,,100/2026,list
+ROS0932,ROS,PL0000119491,2026-09-01,2026-09-30,72,roczny,inflacja,true,5,2,,2,kwota z listu,,35.3808,,88/2026,MF + list
+ROS1032,ROS,PL0000119574,2026-10-01,2026-10-31,72,roczny,inflacja,true,5,2,,2,kwota z listu,,,,100/2026,MF + list
+ROS1132,ROS,,2026-11-01,,72,roczny,inflacja,true,5,2,,2,kwota z listu,,,,109/2026,list
 TOS0825,TOS,PL0000113890,2022-08-01,2022-08-31,36,roczny,stałe,true,6.5,,,0.7,kwota z listu,99.9,221.8047,22.8537,87/2022,MF + list
 TOS0925,TOS,PL0000114971,2022-09-01,2022-09-30,36,roczny,stałe,true,6.5,,,0.7,kwota z listu,99.9,67.8505,12.7287,96/2022,MF + list
 TOS1025,TOS,PL0000115069,2022-10-01,2022-10-31,36,roczny,stałe,true,6.85,,,0.7,kwota z listu,99.9,65.43,14.5737,109/2022,MF + list
@@ -1371,88 +1378,89 @@ TOS0529,TOS,PL0000119129,2026-05-01,2026-05-31,36,roczny,stałe,true,4.4,,,1,kwo
 TOS0629,TOS,PL0000119210,2026-06-01,2026-06-30,36,roczny,stałe,true,4.4,,,1,kwota z listu,99.9,1501.7381,453.8223,53/2026,MF + list
 TOS0729,TOS,PL0000119293,2026-07-01,2026-07-31,36,roczny,stałe,true,4.4,,,1,kwota z listu,99.9,2043.5922,576.2722,64/2026,MF + list
 TOS0829,TOS,PL0000119376,2026-08-01,2026-08-31,36,roczny,stałe,true,4.4,,,1,kwota z listu,99.9,1731.7176,514.8446,76/2026,MF + list
-TOS0929,TOS,PL0000119467,2026-09-01,2026-09-30,36,roczny,stałe,true,4.4,,,1,kwota z listu,99.9,,,85/2026,MF + list
-TOS1029,TOS,,2026-10-01,,36,roczny,stałe,true,4.4,,,1,kwota z listu,,,,97/2026,list
-TOZ0515,TOZ,PL0000107041,2012-05-01,2012-05-31,36,półroczny,WIBOR 6M,false,4.97,,,1,kwota z listu,,12.7404,,,MF + list
+TOS0929,TOS,PL0000119467,2026-09-01,2026-09-30,36,roczny,stałe,true,4.4,,,1,kwota z listu,99.9,1479.0159,482.5713,85/2026,MF + list
+TOS1029,TOS,PL0000119541,2026-10-01,2026-10-31,36,roczny,stałe,true,4.4,,,1,kwota z listu,99.9,,,97/2026,MF + list
+TOS1129,TOS,,2026-11-01,,36,roczny,stałe,true,4.4,,,1,kwota z listu,,,,106/2026,list
+TOZ0515,TOZ,PL0000107041,2012-05-01,2012-05-31,36,półroczny,WIBOR 6M,false,4.97,,,1,kwota z listu,,12.7404,,15/2012,MF + list
 TOZ0615,TOZ,PL0000107090,2012-06-01,2012-06-30,36,półroczny,WIBOR 6M,false,5.11,,,1,kwota z listu,99.9,6.012,0.5227,22/2012,MF + list
 TOZ0715,TOZ,PL0000107173,2012-07-01,2012-07-31,36,półroczny,WIBOR 6M,false,5.14,,,1,kwota z listu,99.9,6.8263,1.4459,28/2012,MF + list
 TOZ0815,TOZ,PL0000107042,2012-08-01,2012-08-31,36,półroczny,WIBOR 6M,false,5.15,,,1,kwota z listu,99.9,16.9242,2.3177,32/2012,MF + list
 TOZ0915,TOZ,PL0000107215,2012-09-01,2012-09-30,36,półroczny,WIBOR 6M,false,5.13,,,1,kwota z listu,99.9,8.9287,2.2648,36/2012,MF + list
-TOZ1015,TOZ,PL0000107231,2012-10-01,2012-10-31,36,półroczny,WIBOR 6M,false,5,,,1,kwota z listu,99.9,7.9265,2.8065,,MF + list
+TOZ1015,TOZ,PL0000107231,2012-10-01,2012-10-31,36,półroczny,WIBOR 6M,false,5,,,1,kwota z listu,99.9,7.9265,2.8065,41/2012,MF + list
 TOZ1115,TOZ,PL0000107280,2012-11-01,2012-11-30,36,półroczny,WIBOR 6M,false,4.76,,,1,kwota z listu,99.9,16.9836,1.6454,48/2012,MF + list
 TOZ1215,TOZ,PL0000107330,2012-12-01,2012-12-31,36,półroczny,WIBOR 6M,false,4.6,,,1,kwota z listu,99.9,4.5808,2.0224,55/2012,MF + list
-TOZ0116,TOZ,PL0000107371,2013-01-01,2013-01-31,36,półroczny,WIBOR 6M,false,4.15,,,1,kwota z listu,99.9,2.7435,0.7186,,MF + list
+TOZ0116,TOZ,PL0000107371,2013-01-01,2013-01-31,36,półroczny,WIBOR 6M,false,4.15,,,1,kwota z listu,99.9,2.7435,0.7186,59/2012,MF + list
 TOZ0216,TOZ,PL0000107421,2013-02-01,2013-02-28,36,półroczny,WIBOR 6M,false,4,,,1,kwota z listu,99.9,12.068,0.9451,4/2013,MF + list
 TOZ0316,TOZ,PL0000107470,2013-03-01,2013-03-31,36,półroczny,WIBOR 6M,false,4,,,1,kwota z listu,99.9,6.3611,2.9016,10/2013,MF + list
 TOZ0416,TOZ,PL0000107512,2013-04-01,2013-04-30,36,półroczny,WIBOR 6M,false,4,,,1,kwota z listu,99.9,4.5772,0.9931,14/2013,MF + list
 TOZ0516,TOZ,PL0000107579,2013-05-01,2013-05-31,36,półroczny,WIBOR 6M,false,3.3,,,1,kwota z listu,99.9,13.9284,1.7637,18/2013,MF + list
 TOZ0616,TOZ,PL0000107652,2013-06-01,2013-06-30,36,półroczny,WIBOR 6M,false,3.3,,,1,kwota z listu,99.9,4.4034,1.8322,26/2013,MF + list
 TOZ0716,TOZ,PL0000107694,2013-07-01,2013-07-31,36,półroczny,WIBOR 6M,false,3.3,,,1,kwota z listu,99.9,6.4041,1.1523,30/2013,MF + list
-TOZ0816,TOZ,PL0000107744,2013-08-01,2013-08-31,36,półroczny,WIBOR 6M,false,3.3,,,1,kwota z listu,99.9,22.61,1.5046,,MF + list
+TOZ0816,TOZ,PL0000107744,2013-08-01,2013-08-31,36,półroczny,WIBOR 6M,false,3.3,,,1,kwota z listu,99.9,22.61,1.5046,35/2013,MF + list
 TOZ0916,TOZ,PL0000107785,2013-09-01,2013-09-30,36,półroczny,WIBOR 6M,false,3.3,,,1,kwota z listu,99.9,10.275,1.4549,39/2013,MF + list
-TOZ1016,TOZ,PL0000107827,2013-10-01,2013-10-31,36,półroczny,WIBOR 6M,false,3.3,,,1,kwota z listu,99.9,24.8795,1.7504,,MF + list
+TOZ1016,TOZ,PL0000107827,2013-10-01,2013-10-31,36,półroczny,WIBOR 6M,false,3.3,,,1,kwota z listu,99.9,24.8795,1.7504,43/2013,MF + list
 TOZ1116,TOZ,PL0000107868,2013-11-01,2013-11-30,36,półroczny,WIBOR 6M,false,3.3,,,1,kwota z listu,99.9,58.5202,1.7937,49/2013,MF + list
 TOZ1216,TOZ,PL0000107918,2013-12-01,2013-12-31,36,półroczny,WIBOR 6M,false,3.3,,,1,kwota z listu,99.9,13.6197,3.1236,55/2013,MF + list
 TOZ0117,TOZ,PL0000107967,2014-01-01,2014-01-31,36,półroczny,WIBOR 6M,false,3.3,,,1,kwota z listu,99.9,16.4156,2.3459,60/2013,MF + list
-TOZ0217,TOZ,PL0000108007,2014-02-01,2014-02-28,36,półroczny,WIBOR 6M,false,3.3,,,1,kwota z listu,99.9,35.2284,3.0574,,MF + list
+TOZ0217,TOZ,PL0000108007,2014-02-01,2014-02-28,36,półroczny,WIBOR 6M,false,3.3,,,1,kwota z listu,99.9,35.2284,3.0574,5/2014,MF + list
 TOZ0317,TOZ,PL0000108056,2014-03-01,2014-03-31,36,półroczny,WIBOR 6M,false,3.3,,,1,kwota z listu,99.9,10.6659,2.9231,10/2014,MF + list
-TOZ0417,TOZ,PL0000108098,2014-04-01,2014-04-30,36,półroczny,WIBOR 6M,false,3.3,,,1,kwota z listu,99.9,8.3813,0.5999,,MF + list
+TOZ0417,TOZ,PL0000108098,2014-04-01,2014-04-30,36,półroczny,WIBOR 6M,false,3.3,,,1,kwota z listu,99.9,8.3813,0.5999,14/2014,MF + list
 TOZ0517,TOZ,PL0000108130,2014-05-01,2014-05-31,36,półroczny,WIBOR 6M,false,3.3,,,1,kwota z listu,99.9,29.5143,2.7717,18/2014,MF + list
 TOZ0617,TOZ,PL0000108189,2014-06-01,2014-06-30,36,półroczny,WIBOR 6M,false,3.3,,,1,kwota z listu,99.9,7.7529,0.6803,23/2014,MF + list
 TOZ0717,TOZ,PL0000108239,2014-07-01,2014-07-31,36,półroczny,WIBOR 6M,false,3.3,,,1,kwota z listu,99.9,10.1694,0.661,28/2014,MF + list
-TOZ0817,TOZ,PL0000108270,2014-08-01,2014-08-31,36,półroczny,WIBOR 6M,false,3,,,1,kwota z listu,99.9,32.2683,1.1098,,MF + list
+TOZ0817,TOZ,PL0000108270,2014-08-01,2014-08-31,36,półroczny,WIBOR 6M,false,3,,,1,kwota z listu,99.9,32.2683,1.1098,32/2014,MF + list
 TOZ0917,TOZ,PL0000108312,2014-09-01,2014-09-30,36,półroczny,WIBOR 6M,false,2.8,,,1,kwota z listu,99.6,10.3,5.1927,36/2014,MF + list
 TOZ1017,TOZ,PL0000108353,2014-10-01,2014-10-31,36,półroczny,WIBOR 6M,false,2.6,,,1,kwota z listu,99.9,5.8062,1.4199,41/2014,MF + list
 TOZ1117,TOZ,PL0000108395,2014-11-01,2014-11-30,36,półroczny,WIBOR 6M,false,2.4,,,1,kwota z listu,99.9,26.8107,1.4013,45/2014,MF + list
 TOZ1217,TOZ,PL0000108437,2014-12-01,2014-12-31,36,półroczny,WIBOR 6M,false,2.4,,,1,kwota z listu,99.9,12.4751,3.6963,50/2014,MF + list
-TOZ0118,TOZ,PL0000108494,2015-01-01,2015-01-31,36,półroczny,WIBOR 6M,false,2.4,,,,,99.9,5.7101,0.315,,MF
-TOZ0218,TOZ,PL0000108551,2015-02-01,2015-02-28,36,półroczny,WIBOR 6M,false,2.4,,,,,99.9,21.0583,1.9867,,MF
-TOZ0318,TOZ,PL0000108593,2015-03-01,2015-03-31,36,półroczny,WIBOR 6M,false,2.4,,,,,99.9,9.992,2.7881,,MF
-TOZ0418,TOZ,PL0000108643,2015-04-01,2015-04-30,36,półroczny,WIBOR 6M,false,2.1,,,,,99.9,5.6192,1.0435,,MF
-TOZ0518,TOZ,PL0000108684,2015-05-01,2015-05-31,36,półroczny,WIBOR 6M,false,2.1,,,,,99.9,29.3972,4.7237,,MF
+TOZ0118,TOZ,PL0000108494,2015-01-01,2015-01-31,36,półroczny,WIBOR 6M,false,2.4,,,1,kwota z listu,99.9,5.7101,0.315,55/2014,MF + list
+TOZ0218,TOZ,PL0000108551,2015-02-01,2015-02-28,36,półroczny,WIBOR 6M,false,2.4,,,1,kwota z listu,99.9,21.0583,1.9867,4/2015,MF + list
+TOZ0318,TOZ,PL0000108593,2015-03-01,2015-03-31,36,półroczny,WIBOR 6M,false,2.4,,,1,kwota z listu,99.9,9.992,2.7881,8/2015,MF + list
+TOZ0418,TOZ,PL0000108643,2015-04-01,2015-04-30,36,półroczny,WIBOR 6M,false,2.1,,,0.7,kwota z listu,99.9,5.6192,1.0435,13/2015,MF + list
+TOZ0518,TOZ,PL0000108684,2015-05-01,2015-05-31,36,półroczny,WIBOR 6M,false,2.1,,,0.7,kwota z listu,99.9,29.3972,4.7237,18/2015,MF + list
 TOZ0618,TOZ,PL0000108726,2015-06-01,2015-06-30,36,półroczny,WIBOR 6M,false,2.1,,,0.7,kwota z listu,99.9,8.9392,1.4171,23/2015,MF + list
-TOZ0718,TOZ,PL0000108767,2015-07-01,2015-07-31,36,półroczny,WIBOR 6M,false,2.1,,,,,99.9,17.3506,3.0166,,MF
+TOZ0718,TOZ,PL0000108767,2015-07-01,2015-07-31,36,półroczny,WIBOR 6M,false,2.1,,,0.7,kwota z listu,99.9,17.3506,3.0166,27/2015,MF + list
 TOZ0818,TOZ,PL0000108809,2015-08-01,2015-08-31,36,półroczny,WIBOR 6M,false,2.1,,,0.7,kwota z listu,99.9,22.9103,7.6843,31/2015,MF + list
-TOZ0918,TOZ,PL0000108858,2015-09-01,2015-09-30,36,półroczny,WIBOR 6M,false,2.1,,,,,99.9,12.1381,3.5837,,MF
-TOZ1018,TOZ,PL0000108908,2015-10-01,2015-10-31,36,półroczny,WIBOR 6M,false,2.1,,,,,99.9,11.1368,4.3278,,MF
-TOZ1118,TOZ,PL0000108957,2015-11-01,2015-11-30,36,półroczny,WIBOR 6M,false,2.2,,,,,99.9,16.5181,7.6067,,MF
-TOZ1218,TOZ,PL0000109013,2015-12-01,2015-12-31,36,półroczny,WIBOR 6M,false,2.1,,,,,99.9,8.8736,3.1562,,MF
+TOZ0918,TOZ,PL0000108858,2015-09-01,2015-09-30,36,półroczny,WIBOR 6M,false,2.1,,,0.7,kwota z listu,99.9,12.1381,3.5837,36/2015,MF + list
+TOZ1018,TOZ,PL0000108908,2015-10-01,2015-10-31,36,półroczny,WIBOR 6M,false,2.1,,,0.7,kwota z listu,99.9,11.1368,4.3278,42/2015,MF + list
+TOZ1118,TOZ,PL0000108957,2015-11-01,2015-11-30,36,półroczny,WIBOR 6M,false,2.2,,,0.7,kwota z listu,99.9,16.5181,7.6067,49/2015,MF + list
+TOZ1218,TOZ,PL0000109013,2015-12-01,2015-12-31,36,półroczny,WIBOR 6M,false,2.1,,,0.7,kwota z listu,99.9,8.8736,3.1562,53/2015,MF + list
 TOZ0119,TOZ,PL0000109054,2016-01-01,2016-01-31,36,półroczny,WIBOR 6M,false,2.1,,,0.7,kwota z listu,99.9,12.8898,3.2338,57/2015,MF + list
 TOZ0219,TOZ,PL0000109104,2016-02-01,2016-02-28,36,półroczny,WIBOR 6M,false,2.1,,,0.7,kwota z listu,99.6,33.7194,25.892,5/2016,MF + list
-TOZ0319,TOZ,PL0000109146,2016-03-01,2016-03-31,36,półroczny,WIBOR 6M,false,2.1,,,,,99.9,11.1641,3.4217,,MF
-TOZ0419,TOZ,PL0000109195,2016-04-01,2016-04-30,36,półroczny,WIBOR 6M,false,2.1,,,,,99.9,14.4988,2.1644,,MF
-TOZ0519,TOZ,PL0000109237,2016-05-01,2016-05-31,36,półroczny,WIBOR 6M,false,2.1,,,,,99.9,17.186,8.343,,MF
-TOZ0619,TOZ,PL0000109278,2016-06-01,2016-06-30,36,półroczny,WIBOR 6M,false,2.1,,,,,99.9,14.5084,2.1145,,MF
+TOZ0319,TOZ,PL0000109146,2016-03-01,2016-03-31,36,półroczny,WIBOR 6M,false,2.1,,,0.7,kwota z listu,99.9,11.1641,3.4217,9/2016,MF + list
+TOZ0419,TOZ,PL0000109195,2016-04-01,2016-04-30,36,półroczny,WIBOR 6M,false,2.1,,,0.7,kwota z listu,99.9,14.4988,2.1644,14/2016,MF + list
+TOZ0519,TOZ,PL0000109237,2016-05-01,2016-05-31,36,półroczny,WIBOR 6M,false,2.1,,,0.7,kwota z listu,99.9,17.186,8.343,20/2016,MF + list
+TOZ0619,TOZ,PL0000109278,2016-06-01,2016-06-30,36,półroczny,WIBOR 6M,false,2.1,,,0.7,kwota z listu,99.9,14.5084,2.1145,24/2016,MF + list
 TOZ0719,TOZ,PL0000109310,2016-07-01,2016-07-31,36,półroczny,WIBOR 6M,false,2.1,,,0.7,kwota z listu,99.9,11.4796,2.6924,28/2016,MF + list
-TOZ0819,TOZ,PL0000109369,2016-08-01,2016-08-31,36,półroczny,WIBOR 6M,false,2.1,,,,,99.9,24.6649,13.4292,,MF
+TOZ0819,TOZ,PL0000109369,2016-08-01,2016-08-31,36,półroczny,WIBOR 6M,false,2.1,,,0.7,kwota z listu,99.9,24.6649,13.4292,34/2016,MF + list
 TOZ0919,TOZ,PL0000109419,2016-09-01,2016-09-30,36,półroczny,WIBOR 6M,false,2.1,,,0.7,kwota z listu,99.9,8.9115,2.8914,40/2016,MF + list
-TOZ1019,TOZ,PL0000109468,2016-10-01,2016-10-31,36,półroczny,WIBOR 6M,false,2.1,,,,,99.7,19.1251,10.9698,,MF
-TOZ1119,TOZ,PL0000109534,2016-11-01,2016-11-30,36,półroczny,WIBOR 6M,false,2.1,,,,,99.9,23.0302,13.2527,,MF
+TOZ1019,TOZ,PL0000109468,2016-10-01,2016-10-31,36,półroczny,WIBOR 6M,false,2.1,,,0.7,kwota z listu,99.7,19.1251,10.9698,44/2016,MF + list
+TOZ1119,TOZ,PL0000109534,2016-11-01,2016-11-30,36,półroczny,WIBOR 6M,false,2.1,,,0.7,kwota z listu,99.9,23.0302,13.2527,53/2016,MF + list
 TOZ1219,TOZ,PL0000109591,2016-12-01,2016-12-31,36,półroczny,WIBOR 6M,false,2.2,,,0.7,kwota z listu,99.9,15.8756,4.624,60/2016,MF + list
 TOZ0120,TOZ,PL0000109674,2017-01-01,2017-01-31,36,półroczny,WIBOR 6M,false,2.2,,,0.7,kwota z listu,99.9,21.1261,4.819,69/2016,MF + list
-TOZ0220,TOZ,PL0000109732,2017-02-01,2017-02-28,36,półroczny,WIBOR 6M,false,2.2,,,,,99.9,33.1539,17.4537,,MF
+TOZ0220,TOZ,PL0000109732,2017-02-01,2017-02-28,36,półroczny,WIBOR 6M,false,2.2,,,0.7,kwota z listu,99.9,33.1539,17.4537,2/2017,MF + list
 TOZ0320,TOZ,PL0000109807,2017-03-01,2017-03-31,36,półroczny,WIBOR 6M,false,2.2,,,0.7,kwota z listu,99.9,13.2306,4.9693,9/2017,MF + list
 TOZ0420,TOZ,PL0000109864,2017-04-01,2017-04-30,36,półroczny,WIBOR 6M,false,2.2,,,0.7,kwota z listu,99.9,13.8582,3.8915,17/2017,MF + list
 TOZ0520,TOZ,PL0000109922,2017-05-01,2017-05-31,36,półroczny,WIBOR 6M,false,2.2,,,0.7,kwota z listu,99.9,27.3167,12.8497,23/2017,MF + list
 TOZ0620,TOZ,PL0000109989,2017-06-01,2017-06-30,36,półroczny,WIBOR 6M,false,2.2,,,0.7,kwota z listu,99.9,12.0539,3.3159,29/2017,MF + list
 TOZ0720,TOZ,PL0000110052,2017-07-01,2017-07-31,36,półroczny,WIBOR 6M,false,2.2,,,0.7,kwota z listu,99.9,9.9228,2.3791,35/2017,MF + list
-TOZ0820,TOZ,PL0000110128,2017-08-01,2017-08-31,36,półroczny,WIBOR 6M,false,2.2,,,,,99.9,24.2847,14.8435,,MF
+TOZ0820,TOZ,PL0000110128,2017-08-01,2017-08-31,36,półroczny,WIBOR 6M,false,2.2,,,0.7,kwota z listu,99.9,24.2847,14.8435,43/2017,MF + list
 TOZ0920,TOZ,PL0000110201,2017-09-01,2017-09-30,36,półroczny,WIBOR 6M,false,2.2,,,0.7,kwota z listu,99.9,13.7714,4.0088,50/2017,MF + list
-TOZ1020,TOZ,PL0000110268,2017-10-01,2017-10-31,36,półroczny,WIBOR 6M,false,2.2,,,,,99.9,12.3406,2.6378,,MF
-TOZ1120,TOZ,PL0000110326,2017-11-01,2017-11-30,36,półroczny,WIBOR 6M,false,2.2,,,,,99.9,22.7589,12.0894,,MF
-TOZ1220,TOZ,PL0000110425,2017-12-01,2017-12-31,36,półroczny,WIBOR 6M,false,2.2,,,,,99.9,12.8948,4.5629,,MF
+TOZ1020,TOZ,PL0000110268,2017-10-01,2017-10-31,36,półroczny,WIBOR 6M,false,2.2,,,0.7,kwota z listu,99.9,12.3406,2.6378,57/2017,MF + list
+TOZ1120,TOZ,PL0000110326,2017-11-01,2017-11-30,36,półroczny,WIBOR 6M,false,2.2,,,0.7,kwota z listu,99.9,22.7589,12.0894,65/2017,MF + list
+TOZ1220,TOZ,PL0000110425,2017-12-01,2017-12-31,36,półroczny,WIBOR 6M,false,2.2,,,0.7,kwota z listu,99.9,12.8948,4.5629,74/2017,MF + list
 TOZ0121,TOZ,PL0000110490,2018-01-01,2018-01-31,36,półroczny,WIBOR 6M,false,2.2,,,0.7,kwota z listu,99.9,14.4649,3.9365,82/2017,MF + list
 TOZ0221,TOZ,PL0000110565,2018-02-01,2018-02-28,36,półroczny,WIBOR 6M,false,2.2,,,0.7,kwota z listu,99.9,20.5211,10.4902,3/2018,MF + list
 TOZ0321,TOZ,PL0000110649,2018-03-01,2018-03-31,36,półroczny,WIBOR 6M,false,2.2,,,0.7,kwota z listu,99.9,11.0204,5.3609,11/2018,MF + list
 TOZ0421,TOZ,PL0000110714,2018-04-01,2018-04-30,36,półroczny,WIBOR 6M,false,2.2,,,0.7,kwota z listu,99.9,7.3996,1.5763,23/2018,MF + list
-TOZ0521,TOZ,PL0000110789,2018-05-01,2018-05-31,36,półroczny,WIBOR 6M,false,2.2,,,,,99.9,12.5775,5.4599,,MF
+TOZ0521,TOZ,PL0000110789,2018-05-01,2018-05-31,36,półroczny,WIBOR 6M,false,2.2,,,0.7,kwota z listu,99.9,12.5775,5.4599,30/2018,MF + list
 TOZ0621,TOZ,PL0000110862,2018-06-01,2018-06-30,36,półroczny,WIBOR 6M,false,2.2,,,0.7,kwota z listu,99.9,14.0608,5.6075,38/2018,MF + list
-TOZ0721,TOZ,PL0000110938,2018-07-01,2018-07-31,36,półroczny,WIBOR 6M,false,2.2,,,,,99.9,12.1694,4.1223,,MF
+TOZ0721,TOZ,PL0000110938,2018-07-01,2018-07-31,36,półroczny,WIBOR 6M,false,2.2,,,0.7,kwota z listu,99.9,12.1694,4.1223,45/2018,MF + list
 TOZ0821,TOZ,PL0000111001,2018-08-01,2018-08-31,36,półroczny,WIBOR 6M,false,2.2,,,0.7,kwota z listu,99.9,18.0349,9.3177,52/2018,MF + list
-TOZ0921,TOZ,PL0000111076,2018-09-01,2018-09-30,36,półroczny,WIBOR 6M,false,2.2,,,0.7,kwota z listu,99.9,15.8117,6.4312,,MF + list
+TOZ0921,TOZ,PL0000111076,2018-09-01,2018-09-30,36,półroczny,WIBOR 6M,false,2.2,,,0.7,kwota z listu,99.9,15.8117,6.4312,59/2018,MF + list
 TOZ1021,TOZ,PL0000111142,2018-10-01,2018-10-31,36,półroczny,WIBOR 6M,false,2.2,,,0.7,kwota z listu,99.7,12.0841,4.521,66/2018,MF + list
 TOZ1121,TOZ,PL0000111225,2018-11-01,2018-11-30,36,półroczny,WIBOR 6M,false,2.2,,,0.7,kwota z listu,99.9,18.601,9.3313,74/2018,MF + list
-TOZ1221,TOZ,PL0000111308,2018-12-01,2018-12-31,36,półroczny,WIBOR 6M,false,2.2,,,,,99.9,12.1654,3.1908,,MF
+TOZ1221,TOZ,PL0000111308,2018-12-01,2018-12-31,36,półroczny,WIBOR 6M,false,2.2,,,0.7,kwota z listu,99.9,12.1654,3.1908,82/2018,MF + list
 TOZ0122,TOZ,PL0000111373,2019-01-01,2019-01-31,36,półroczny,WIBOR 6M,false,2.2,,,0.7,kwota z listu,99.9,11.8574,4.0797,89/2018,MF + list
 TOZ0222,TOZ,PL0000111449,2019-02-01,2019-02-28,36,półroczny,WIBOR 6M,false,2.2,,,0.7,kwota z listu,99.9,14.1197,7.0202,3/2019,MF + list
 TOZ0322,TOZ,PL0000111522,2019-03-01,2019-03-31,36,półroczny,WIBOR 6M,false,2.2,,,0.7,kwota z listu,99.9,12.206,5.459,11/2019,MF + list
@@ -1464,10 +1472,10 @@ TOZ0822,TOZ,PL0000111951,2019-08-01,2019-08-31,36,półroczny,WIBOR 6M,false,2.2
 TOZ0922,TOZ,PL0000112033,2019-09-01,2019-09-30,36,półroczny,WIBOR 6M,false,2.2,,,0.7,kwota z listu,99.9,12.2642,3.0318,64/2019,MF + list
 TOZ1022,TOZ,PL0000112116,2019-10-01,2019-10-31,36,półroczny,WIBOR 6M,false,2.2,,,0.7,kwota z listu,99.9,16.3557,6.6539,73/2019,MF + list
 TOZ1122,TOZ,PL0000112199,2019-11-01,2019-11-30,36,półroczny,WIBOR 6M,false,2.2,,,0.7,kwota z listu,99.9,17.6619,6.8692,80/2019,MF + list
-TOZ1222,TOZ,PL0000112264,2019-12-01,2019-12-31,36,półroczny,WIBOR 6M,false,2.2,,,0.7,kwota z listu,99.9,16.6179,5.0342,,MF + list
+TOZ1222,TOZ,PL0000112264,2019-12-01,2019-12-31,36,półroczny,WIBOR 6M,false,2.2,,,0.7,kwota z listu,99.9,16.6179,5.0342,87/2019,MF + list
 TOZ0123,TOZ,PL0000112348,2020-01-01,2020-01-31,36,półroczny,WIBOR 6M,false,2.2,,,0.7,kwota z listu,99.9,17.8416,4.7945,95/2019,MF + list
 TOZ0223,TOZ,PL0000112421,2020-02-01,2020-02-28,36,półroczny,WIBOR 6M,false,2.2,,,0.7,kwota z listu,99.9,26.0859,11.8799,5/2020,MF + list
-TOZ0323,TOZ,PL0000112496,2020-03-01,2020-03-31,36,półroczny,WIBOR 6M,false,2.2,,,0.7,kwota z listu,99.9,13.9439,4.9496,,MF + list
+TOZ0323,TOZ,PL0000112496,2020-03-01,2020-03-31,36,półroczny,WIBOR 6M,false,2.2,,,0.7,kwota z listu,99.9,13.9439,4.9496,13/2020,MF + list
 TOZ0423,TOZ,PL0000112579,2020-04-01,2020-04-30,36,półroczny,WIBOR 6M,false,2.2,,,0.7,kwota z listu,99.9,21.7577,3.929,20/2020,MF + list
 TOZ0523,TOZ,PL0000112652,2020-05-01,2020-05-31,36,półroczny,WIBOR 6M,false,1.1,,,0.7,kwota z listu,99.9,13.047,6.5965,30/2020,MF + list
 TOZ0623,TOZ,PL0000112785,2020-06-01,2020-06-30,36,półroczny,WIBOR 6M,false,1.1,,,0.7,kwota z listu,99.9,8.4185,3.5615,42/2020,MF + list

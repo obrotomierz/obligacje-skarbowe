@@ -2,8 +2,8 @@ cff-version: 1.2.0
 message: "Jeśli korzystasz z tego zbioru, zacytuj go."
 type: dataset
 title: "Obligacje oszczędnościowe Skarbu Państwa: emisje i oprocentowanie"
-version: "2026-10-07"
-date-released: "2026-10-07"
+version: "2026-10-26"
+date-released: "2026-10-26"
 license: CC-BY-4.0
 doi: "10.5281/zenodo.23208023"
 url: "https://obrotomierz.pl/dane/obligacje/"
@@ -14,8 +14,8 @@ authors:
     affiliation: "obrotomierz.pl"
 identifiers:
   - type: doi
-    value: "10.5281/zenodo.23208024"
-    description: "Wersja 2026-10-07"
+    value: "10.5281/zenodo.23676266"
+    description: "Wersja 2026-10-26"
 keywords:
   - obligacje skarbowe
   - obligacje oszczędnościowe
