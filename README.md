@@ -19,6 +19,23 @@ sprzedaż i numery list emisyjnych.
 Kodowanie UTF-8 ze znacznikiem BOM, przecinek jako separator kolumn, kropka w liczbach. W Excelu kolumnę
 `lista_emisyjna` ustaw jako tekst (numer „5/2007” Excel zamienia w datę). W Pythonie: `encoding="utf-8-sig"`.
 
+## Przykład w Pythonie
+
+Sprzedaż w mln zł według roku i rodziny obligacji (pandas):
+
+```python
+import pandas as pd
+
+url = "https://raw.githubusercontent.com/obrotomierz/obligacje-skarbowe/main/emisje.csv"
+emisje = pd.read_csv(url, encoding="utf-8-sig", dtype={"lista_emisyjna": str})
+emisje["rok"] = emisje["sprzedaz_od"].str[:4]
+
+# sprzedaż w mln zł według roku i rodziny obligacji
+sprzedaz = emisje.pivot_table(index="rok", columns="rodzina",
+                              values="sprzedaz_mln_zl", aggfunc="sum")
+print(sprzedaz[["COI", "EDO", "ROR", "TOS"]].tail().round())
+```
+
 ## Słownik pól (emisje.csv)
 
 | Kolumna | Znaczenie | Źródło |
@@ -77,6 +94,7 @@ since 1999: 1 505 issues across 10 bond families, first-period rates and margin
 for every interest period (7 295 rows), early redemption fees read from the official issue letters (not
 present in the Ministry of Finance data), sales and issue letter numbers. Built from the Ministry of Finance open data
 (dane.gov.pl, CC BY 4.0) cross-checked against the issue letters (0 discrepancies). Updated monthly.
-Field names and documentation are in Polish. License: CC BY 4.0.
+Field names and documentation are in Polish. A pandas example (sales by year and bond family) is in the section
+"Przykład w Pythonie". License: CC BY 4.0.
 
 Błędy w danych: https://obrotomierz.pl/kontakt/
