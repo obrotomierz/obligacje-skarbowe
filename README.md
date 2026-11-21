@@ -2,18 +2,18 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23208023.svg)](https://doi.org/10.5281/zenodo.23208023)
 
-Wersja 2026-10-26 · licencja CC BY 4.0 · DOI wszystkich wersji [10.5281/zenodo.23208023](https://doi.org/10.5281/zenodo.23208023), tej wersji [10.5281/zenodo.23676266](https://doi.org/10.5281/zenodo.23676266)
+Wersja 2026-11-22 · licencja CC BY 4.0 · DOI wszystkich wersji [10.5281/zenodo.23208023](https://doi.org/10.5281/zenodo.23208023), tej wersji [10.5281/zenodo.24423849](https://doi.org/10.5281/zenodo.24423849)
 
 Strona zbioru: https://obrotomierz.pl/dane/obligacje/
 
 Emisje 10 rodzin obligacji oszczędnościowych Skarbu Państwa sprzedawanych co miesiąc, od 1999-06-01 do 2026-11-01:
-1 505 emisji, oprocentowanie w 7 295 okresach odsetkowych, marże, opłaty za wcześniejszy wykup,
+1 505 emisji, oprocentowanie w 7 364 okresach odsetkowych, marże, opłaty za wcześniejszy wykup,
 sprzedaż i numery list emisyjnych.
 
 ## Pliki
 
 - `emisje.csv`: jedna emisja w wierszu, 19 kolumn (słownik niżej).
-- `oprocentowanie.csv`: oprocentowanie każdej emisji w każdym okresie odsetkowym, który zaczął się do 2026-09-30.
+- `oprocentowanie.csv`: oprocentowanie każdej emisji w każdym okresie odsetkowym, który zaczął się do 2026-10-31.
   Kolumny: `seria`, `okres` (numer okresu), `jednostka_okresu` (miesiąc, rok, półrocze albo cały okres), `oprocentowanie_pct`.
 
 Kodowanie UTF-8 ze znacznikiem BOM, przecinek jako separator kolumn, kropka w liczbach. W Excelu kolumnę
@@ -68,7 +68,7 @@ Kopie z datą w nazwie leżą też na https://obrotomierz.pl/dane/obligacje/ i s
 ## Źródła i metoda
 
 1. Ministerstwo Finansów, „Podstawowe informacje na temat obligacji detalicznych”, dane.gov.pl, zbiór 805
-   (licencja CC BY 4.0), stan na 2026-09-30: serie, ISIN, daty, sprzedaż, oprocentowanie w okresach, marża.
+   (licencja CC BY 4.0), stan na 2026-10-31: serie, ISIN, daty, sprzedaż, oprocentowanie w okresach, marża.
 2. Listy emisyjne ministra (dokumenty urzędowe ustalające warunki każdej emisji), odczytane przez nas: opłata za
    wcześniejszy wykup, podstawa oprocentowania, kapitalizacja, marża pierwszego okresu w starszych emisjach,
    numer listu. Emisje nowsze niż dane MF dopisane wprost z list.
@@ -84,14 +84,14 @@ Brak stawek przyszłych okresów (zależą od inflacji i stóp). Zbiór opisuje 
 
 ## Jak cytować
 
-Błażewski, R. (2026). Obligacje oszczędnościowe Skarbu Państwa: emisje i oprocentowanie (wersja 2026-10-26) [Zbiór danych]. obrotomierz.pl. Zenodo. https://doi.org/10.5281/zenodo.23676266
+Błażewski, R. (2026). Obligacje oszczędnościowe Skarbu Państwa: emisje i oprocentowanie (wersja 2026-11-22) [Zbiór danych]. obrotomierz.pl. Zenodo. https://doi.org/10.5281/zenodo.24423849
 Na podstawie danych Ministerstwa Finansów (dane.gov.pl, CC BY 4.0) i list emisyjnych.
 
 ## English summary
 
 Dataset of Polish retail treasury savings bonds (obligacje oszczędnościowe Skarbu Państwa) issued monthly
 since 1999: 1 505 issues across 10 bond families, first-period rates and margins, interest rate
-for every interest period (7 295 rows), early redemption fees read from the official issue letters (not
+for every interest period (7 364 rows), early redemption fees read from the official issue letters (not
 present in the Ministry of Finance data), sales and issue letter numbers. Built from the Ministry of Finance open data
 (dane.gov.pl, CC BY 4.0) cross-checked against the issue letters (0 discrepancies). Updated monthly.
 Field names and documentation are in Polish. A pandas example (sales by year and bond family) is in the section
